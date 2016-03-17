@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 """
 	Jinda Han @ March 16, 2015
 	open the files from the directory
@@ -38,28 +39,31 @@ for num in range (file_start, file_end):
 		if "Definition: " in line:
 			line = line.split("Definition: ")
 			print line[1]
-			f_out_2.write(str(file_line_num) + "\t" +line[1])
-
+			f_out_2.write(str(file_line_num + 10000) + "\t" +line[1])
 
 		if "Symptoms and Signs: " in line:
 			line = line.split("Symptoms and Signs: ")
 			print line[1]
-			f_out_3.write(str(file_line_num) + "\t" +line[1])
+			f_out_3.write(str(file_line_num + 20000) + "\t" +line[1])
 
 		if "Treatment: " in line:
 			line = line.split("Treatment: ")
 			print line[1]
-			f_out_4.write(str(file_line_num) + "\t" +line[1])
+			f_out_4.write(str(file_line_num + 30000) + "\t" +line[1])
 
 		if "Causes: " in line:
 			line = line.split("Causes: ")
 			print line[1]
-			f_out_5.write(str(file_line_num) + "\t" +line[1])
+			f_out_5.write(str(file_line_num + 40000) + "\t" +line[1])
 
 		if "Diagnosis: " in line:
 			line = line.split("Diagnosis: ")
 			print line[1]
-			f_out_6.write(str(file_line_num) + "\t" +line[1])
+			f_out_6.write(str(file_line_num + 50000) + "\t" +line[1])
+
+	# for here if you want continuous number from file 1 to the end, 
+	# then you need to separate the for loop and give each for loop a condition, 
+	# and add in each loop if line[1] != "", then file_line_num += 1
 
 	#end for
 

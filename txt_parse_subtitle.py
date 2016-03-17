@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 from collections import Counter
 """
 	Jinda Han @ March 16, 2015
