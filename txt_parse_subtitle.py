@@ -43,5 +43,4 @@ def txt_parse_subtitle(file_dir,file_start,file_end):
 
 	f_out_1.close
 #function test
-
 txt_parse_subtitle(file_dir,file_start,file_end_test)
