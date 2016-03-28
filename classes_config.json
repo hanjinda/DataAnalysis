@@ -1,15 +1,18 @@
-{"classes": [
-
-	{"search": {  "type" : "icon",
-                "keywords": ["search", "find"]
-              }
-  },
-	{"location": { "type" : "icon",
-                "keywords": ["search", "find"]
-              }
-  },
-  {"login": { "type" : "text",
-                "keywords": ["login", "signin"]
-              }
+{"classes": {
+	"search": {  
+      "type" : "icon",
+      "keywords": ["search", "find"]
   }
-]}
+  ,
+	"location": { 
+      "type" : "icon",
+      "keywords": ["search", "find"]
+  }
+  ,
+  "login": { 
+      "type" : "text",
+      "keywords": ["login", "signin"]
+  }
+  
+}}
+
