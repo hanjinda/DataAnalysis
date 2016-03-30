@@ -11,7 +11,6 @@
 import json
 from pprint import pprint
 
-
 if __name__ == '__main__':
 	with open('classes_config.json') as data_file:    
 		classes_config = json.load(data_file)
