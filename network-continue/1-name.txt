@@ -1,0 +1,3910 @@
+1	11 Beta Hydroxylase Deficiency
+2	11 beta hydroxysteroid dehydrogenase type 2 deficiency
+3	17 alpha hydroxylase deficiency
+4	17-beta-hydroxysteroid dehydrogenase deficiency
+5	1p36 Deletion Syndrome, rare (NIH)
+6	21 hydroxylase deficiency
+7	22q11.2 deletion syndrome, rare (NIH)
+8	3 beta hydroxysteroid dehydrogenase deficiency
+9	3 methylglutaconyl coa hydratase deficiency
+10	3-hydroxyacyl-coa dehydrogenase deficiency
+11	3-methyl crotonyl-coa carboxylase deficiency
+12	3-methyl glutaconic aciduria
+13	3C Syndrome
+14	3M Syndrome
+15	46,xx gonadal dysgenesis epibulbar dermoid
+16	47 XXY Syndrome
+17	47 XYY Syndrome
+18	48,XXXX Syndrome
+19	48,XXYY Syndrome
+20	49 XXXXX Syndrome
+21	Aagenaes syndrome
+22	Aarskog Ose Pande Syndrome
+23	Aarskog Syndrome
+24	Aase Smith syndrome (or Aase syndrome)
+25	Aase Syndrome
+26	Aaviophobia
+27	Abasia
+28	Abdominal Aortic Aneurysm
+29	Abdominal Cystic Lymphangioma
+30	Abdominal Defects
+31	Abdominal Migraine
+32	Abdominal Pain
+33	Abercrombie Syndrome
+34	Aberrant subclavian artery
+35	Abetalipoproteinemia
+36	Ablepharon macrostomia syndrome
+37	Abnormal Uterine Bleeding
+38	Abscess
+39	Abscess Bartholin
+40	Absence Seizure
+41	Absent T lymphocytes
+42	Abt-Letterer-Siwe Disease
+43	Acanthamoeba Infection
+44	Acanthocheilonemiasis
+45	Acanthocheilonemiasis Perstans
+46	Acanthocytosis
+47	Acanthocytosis chorea
+48	Acanthocytosis-Neurologic Disorder
+49	Acanthosis nigricans
+50	Acanthotic Nevus
+51	Accessory pancreas
+52	Accutane Embryopathy
+53	Achalasia
+54	Achard-Thiers syndrome
+55	Acheiropodia
+56	Achilles Tendinitis
+57	Achilles Tendon Rupture
+58	Acholuric Jaundice
+59	Achondrogenesis
+60	Achondroplasia
+61	Achondroplastic Dwarfism
+62	Achromatopsia
+63	Acid Beta-Glucosidase Deficiency
+64	Acid Ceramidase Deficiency
+65	Acid maltase deficiency
+66	Acid Reflux
+67	Acidemia, isovaleric
+68	Acidemia, propionic
+69	Acinetobacter Infection
+70	ACL Injury
+71	Acne
+72	Acne Cystic
+73	Acne Keloidalis Nuchae
+74	Acne rosacea
+75	Acoustic Neuroma
+76	Acquired Ichthyosis
+77	Acquired Immune Deficiency Syndrome
+78	Acquired Syphilis
+79	Acrocephaly
+80	Acrochordon
+81	Acrocyanosis
+82	Acrodermatitis Enteropathica
+83	Acrodysostosis
+84	Acrodysplasia
+85	Acrodystrophic Neuropathy
+86	Acrofacial dysostosis, Nager type
+87	Acromegaly
+88	Acromicric Dysplasia
+89	Acromicric Skeletal Dysplasia
+90	Acrophobia
+91	ACTH Deficiency
+92	Actinic Cheilitis
+93	Actinic Keratosis
+94	Actinomycetales Infection
+95	Actinomycosis
+96	Activated Protein C Resistance
+97	Acutane Embryopathy
+98	Acute articular rheumatism
+99	Acute Beryllium Disease
+100	Acute Bronchitis
+101	Acute Disseminated Histiocytosis-X
+102	Acute erythroblastic leukemia
+103	Acute febrile neutrophilic dermatosis
+104	Acute gouty arthritis
+105	Acute Idiopathic Polyneuritis
+106	Acute intermittent porphyria
+107	Acute Kidney Failure
+108	Acute Liver Failure
+109	Acute lymphoblastic leukemia
+110	Acute monoblastic leukemia
+111	Acute mountain sickness
+112	Acute myelocytic leukemia
+113	Acute necrotizing ulcerative gingivitis
+114	Acute pancreatitis
+115	Acute Pancreatitis
+116	Acute posterior multifocal placoid pigment epitheliopathy
+117	Acute promyelocytic leukemia
+118	Acute renal failure
+119	Acute Respiratory Distress Syndrome
+120	Acute Sinusitis
+121	Acute Toxic Epidermolysis
+122	Acute Tubular Necrosis
+123	ACY2 Deficiency
+124	Acyl-CoA dehydrogenase, medium chain, deficiency of
+125	Acyl-CoA dehydrogenase, very long chain, deficiency of
+126	Acyl-CoA dehydrogenase, very short chain, deficiency of
+127	Ad14
+128	Addiction
+129	Addison Anemia
+130	Addison's Disease
+131	Adducted thumb syndrome recessive form
+132	Adenitis, Mesenteric
+133	Adenocarcinoma of the lung
+134	Adenoid cystic carcinoma
+135	Adenoma
+136	Adenoma of the adrenal gland
+137	Adenomyosis
+138	Adenosine Deaminase Deficiency
+139	Adenosine monophosphate deaminase
+140	Adenovirus Infection
+141	Adenylosuccinase Deficiency
+142	Adenylosuccinate lyase deficiency
+143	Adhesion
+144	Adhesive Capsulitis
+145	Adie syndrome
+146	Adiposis dolorosa
+147	Adrenal cancer
+148	Adrenal hyperplasia
+149	Adrenal Hypoplasia Congenital, X-linked (Adrenal Hypoplasia)
+150	Adrenal Incidentaloma
+151	Adrenal Insufficiency
+152	Adrenocortical Carcinoma
+153	Adrenogenital Syndrome
+154	Adrenoleukodystrophy
+155	Adrenomyodystrophy
+156	Adult Onset Still's Disease
+157	Adult Schizophrenia
+158	Agammaglobulinemia
+159	Aganglionosis
+160	Agenesis of the Corpus Callosum
+161	Ageusia
+162	Aggressive fibromatosis
+163	Aging
+164	Agnogenic Myeloid Metaplasia
+165	Agnosia
+166	Agoraphobia
+167	Agyria
+168	Agyria pachygyria polymicrogyria
+169	Aicardi syndrome
+170	Aichmophobia
+171	AIDS
+172	AIDS Dementia Complex
+173	Ainhum
+174	Airplane Ear
+175	Akathisia
+176	Akinetic Mutism
+177	Alagille Syndrome
+178	Alagille-Watson Syndrome
+179	Albers-Schonberg Disease
+180	Albinism
+181	Albinism immunodeficiency
+182	Albright hereditary osteodystrophy
+183	Albright's syndrome
+184	Alcaptonuria
+185	Alcohol fetopathy
+186	alcohol hepatitis
+187	Alcohol Induced Neurotoxicity Syndrome
+188	Alcohol Poisoning
+189	Alcoholism
+190	Aldosteronism, Primary
+191	Alexander disease
+192	Alien hand syndrome
+193	Alkalosis
+194	Alkaptonuria
+195	Allan-Herndon syndrome
+196	Allergic angiitis
+197	Allergic Asthma
+198	Allergic bronchopulmonary aspergillus
+199	Allergic Cascade
+200	Allergic Rhinitis
+201	Alopecia
+202	Alopecia areata
+203	Alopecia Totalis
+204	Alopecia universalis
+205	Alopecia, Female Pattern
+206	Alopecia, Male Pattern
+207	Alpers disease
+208	Alpha 1-antitrypsin deficiency
+209	Alpha-mannosidosis
+210	Alpha-thalassemia
+211	Alport syndrome
+212	Alstrom syndrome
+213	Alternating hemiplegia of childhood
+214	Altitude Illness
+215	Altophobia
+216	Alveolar Capillary Dysplasia
+217	Alveolar Hydatid Disease
+218	Alveolar Osteitis
+219	Alveolar soft part sarcoma
+220	Alveolitis, extrinsic allergic
+221	Alveolus Cancer
+222	Alzheimer disease, familial
+223	Alzheimer's disease
+224	Amaurosis
+225	Ambiguous Genitalia
+226	Amblyopia
+227	Ambras syndrome
+228	Amelogenesis
+229	Amelogenesis imperfecta
+230	Amenorrhoea
+231	American trypanosomiasis
+232	Amnesia
+233	Amnesic Shellfish Poisoning
+234	Amnestic Disorder
+235	Amoebic Dysentery
+236	Amputation
+237	Amyloidosis
+238	Amylotrophic Lateral Sclerosis
+239	Amyoplasia Congenita
+240	Amyotrophic Lateral Sclerosis
+241	Anal Cancer
+242	Anal Exudates
+243	Anal Fissure
+244	Anal Itching
+245	Anaphylactic Shock
+246	Anaphylactoid Purpura
+247	Anaphylaxis
+248	Anaplastic thyroid cancer
+249	Anasarca
+250	Androgen insensitivity syndrome (AIS)
+251	Anemia
+252	Anemia, Diamond-Blackfan
+253	Anemia, Pernicious
+254	Anemia, Sideroblastic
+255	Anencephaly
+256	Aneurysm
+257	Aneurysm of sinus of Valsalva
+258	Angelman Syndrome
+259	Angina Pectoris
+260	Angina, Unstable
+261	Angiofollicular Lymph Node Hyperplasia
+262	Angiolipoma
+263	Angioma
+264	Angiomatosis
+265	Angiopathy
+266	Angiosarcoma
+267	Anguillulosis
+268	Angular Cheilitis
+269	Anhidrosis
+270	Aniridia
+271	Anisakiasis
+272	Anisometropia
+273	Ankle Fracture
+274	Ankle Sprain
+275	Ankylosing spondylitis
+276	Ankylosis
+277	Ankylostomiasis
+278	Annular pancreas
+279	Ano-rectal atresia
+280	Anodontia
+281	Anonychia microcephaly
+282	Anophthalmia
+283	Anopthalmia
+284	Anorchia
+285	Anorexia nervosa
+286	Anorgasmia
+287	Anosmia
+288	Anovulation
+289	Anoxia
+290	Anterior Cruciate Ligament Injuries
+291	Anterior horn disease
+292	Anterior Knee Pain Syndrome
+293	Anthrax
+294	Antibiotic Resistance
+295	Antibiotic Resistant Tuberculosis
+296	Antibiotic-Associated Diarrhea
+297	Antibiotic-caused Colitis
+298	Antimicrobial Resistance
+299	Antiphospholipid syndrome
+300	Antisocial personality disorder
+301	Antithrombin deficiency, congenital
+302	Antitrypsin
+303	Anton syndrome
+304	Anuria
+305	Aortic aneurysm
+306	Aortic arch interruption
+307	Aortic coarctation
+308	Aortic dissection
+309	Aortic supravalvular stenosis
+310	Aortic Valve Regurgitation
+311	Aortic valve stenosis
+312	Apert syndrome
+313	Aphasia
+314	Aphthous stomatitis
+315	Aphthous Ulcers
+316	Apiphobia
+317	Aplastic anemia
+318	Apnea, Infantile
+319	Apnea, Postanesthetic
+320	Apocrine Duct Occlusion
+321	Apparent mineralocorticoid excess
+322	Appendicitis
+323	Apple Peel Syndrome
+324	Apraxia
+325	Apudoma
+326	Arachnitis
+327	Arachnodactyly
+328	Arachnodactyly, Contractural Beals Type
+329	Arachnoid cysts
+330	Arachnoidal Fibroblastoma
+331	Arachnoiditis
+332	Arakawa's syndrome II
+333	ARDS (Acute Respiratory Distress Syndrome)
+334	Aregenetive Anemia
+335	ARG Deficiency
+336	Arginase deficiency (Arginemia)
+337	Argininosuccinic aciduria
+338	Argyria
+339	Arm Fracture
+340	Arnold-Chiari malformation
+341	Arrhythmogenic Right Ventricular Cardiomyopathy
+342	Arrhythmogenic right ventricular dysplasia
+343	Arsenic Poisoning
+344	Arterial tortuosity
+345	Arteriosclerosis
+346	Arteriovenous Fistula
+347	Arteriovenous malformation
+348	Arteritis
+349	Arthritis
+350	Arthritis In Children
+351	Arthritis, Juvenile
+352	Arthritis, Septic
+353	Arthritis, Thumb
+354	Arthrocentesis
+355	Arthrogryposis
+356	Arylsulfatase A deficiency
+357	Asbestos Poisoning
+358	Asbestosis
+359	Ascariasis
+360	Ascending Aorta Dissection
+361	Ascites
+362	ASD
+363	Aseptic meningitis
+364	Asherman's syndrome
+365	Aspartylglycosaminuria
+366	Asperger's Syndrome
+367	Aspergillosis
+368	Asphyxia neonatorum
+369	Aspiration pneumonia
+370	Asplenia
+371	Astasia-abasia
+372	Asthenia
+373	Asthma
+374	Asthma, Childhood
+375	Asthma, Exercise-Induced
+376	Astigmatism
+377	Astrocytoma
+378	Ataxia
+379	Ataxia telangiectasia
+380	Atelectasis
+381	Atelosteogenesis, type II
+382	Atheroma
+383	Atherosclerosis
+384	Athetosis
+385	Athlete's foot
+386	Atonic Seizures
+387	Atopic Dermatitis
+388	Atresia
+389	Atrial Fibrillation
+390	Atrial Flutter
+391	Atrial myxoma
+392	Atrial septal defect
+393	Atrioventricular Canal Defect
+394	Atrioventricular septal defect
+395	Atrophic vaginitis
+396	Atrophy
+397	Attachment Disorder
+398	Attention Deficit Hyperactivity
+399	Auditory Processing Disorder
+400	Auditory Processing Disorder In Children
+401	Autism
+402	Autoimmune hemolytic anemia
+403	Autoimmune hepatitis
+404	Autoimmune peripheral neuropathy
+405	Autoimmune polyendocrinopathy syndrome, type I
+406	Autonomic dysfunction (Autonomic nervous system diseases)
+407	Autonomic Dysreflexia
+408	Avascular Necrosis
+409	Avian Influenza
+410	Avoidant personality Disorder
+411	Axillary Hyperhidrosis
+412	Ayerza's Disease
+413	Azoospermia
+414	B-Cell Lymphoma
+415	Babesiosis
+416	Baby Acne
+417	Baby Blues
+418	Baby Bottle Tooth Decay
+419	Bacillary Angiomatosis
+420	Back Curves
+421	Back pain
+422	Bacteremia
+423	Bacterial endocarditis
+424	Bacterial food poisoning
+425	Bacterial gastroenteritis
+426	Bacterial Meningitis
+427	Bacterial pneumonia
+428	Bacterial Vaginosis
+429	Bad Breath
+430	BAER
+431	Baillarger Syndrome
+432	Baker's Cyst
+433	Balance Disorders
+434	Balanitis
+435	Balantidiasis
+436	Baldness
+437	Ballard syndrome
+438	Balloon Angioplasty Of The Heart
+439	Ballooning Mitral Valve Syndrome
+440	Bannayan-Zonana syndrome
+441	Banti's syndrome
+442	Bantu siderosis
+443	Barber's Itch
+444	Bardet-Biedl syndrome
+445	Bardet-Biedl syndrome, type 1
+446	Bare lymphocyte syndrome
+447	Bare lymphocyte syndrome 2
+448	Baritosis
+449	Barium Enema
+450	Barlow's Syndrome
+451	Barmah Forest Virus
+452	Barotitis Media
+453	Barotrauma
+454	Barrett's Esophagus
+455	Barrett's Syndrome
+456	Barth syndrome
+457	Bartholin Cyst
+458	Bartholin's Abscess
+459	Bartonella infections
+460	Bartter syndrome, classic form
+461	Basal Cell Cancer
+462	Basal cell carcinoma
+463	Basal ganglia diseases
+464	Basal Joint Arthritis
+465	Basilar artery migraines
+466	Bassen Kornzweig Syndrome
+467	Batten disease
+468	BDD
+469	Beals Syndrome
+470	Beau's Lines
+471	Becker's Muscular Dystrophy
+472	Becker's Nevus
+473	Beckwith Wiedmann Syndrome
+474	Bed-Wetting
+475	Bedbug Bites
+476	Bedsores
+477	Bee And Wasp Stings
+478	Behcet's Syndrome
+479	Behr's Syndrome
+480	Bejel
+481	Bell's Palsy
+482	Benign Astrocytoma
+483	Benign Congenital Hypotonia
+484	Benign Essential Blepharospasm
+485	Benign Essential Tremor Syndrome
+486	Benign Fasciculation Syndrome
+487	Benign Intracranial Hypertension
+488	Benign Paroxysmal Positional Vertigo
+489	Benign Prostatic Hyperplasia
+490	Benign Prostatice Hyperplasia (BPH)
+491	Berdon's Syndrome
+492	Bereavement
+493	Berger's Disease
+494	Beriberi
+495	Berlin Breakage Syndrome
+496	Bernard Soulier Disease
+497	Berylliosis
+498	Besnier-Boeck-Schaumann Disease
+499	Beta Thalassemia
+500	Bhaskar Jagannathan Syndrome ~
+501	Bicuspid Aortic Valve
+502	Bilateral Renal Agenesis
+503	Bile Duct Cancer
+504	Bile Reflux
+505	Biliary Atresia
+506	Biliary Cirrhosis
+507	Binge-Eating Disorder
+508	Binswanger's Disease
+509	Biotin Deficiency
+510	Biotinidase Deficiency
+511	Bipolar Disorder
+512	Bird Flu
+513	Birthmarks
+514	Black Death
+515	Black Eye
+516	Black Lung
+517	Blackheads
+518	Bladder Calculi
+519	Bladder Cancer
+520	Bladder Control, Loss Of
+521	Bladder Infection
+522	Bladder Inflammation
+523	Bladder Neoplasm
+524	Bladder Papilloma
+525	Bladder Stones
+526	Bladder, Prolapse
+527	Blastocystis Hominis Infection
+528	Blastoma
+529	Blastomycosis
+530	Bleeding In The Digestive Tract
+531	Bleeding Varices
+532	Blepharitis
+533	Blepharophimosis
+534	Blepharospasm
+535	Blind Loop Syndrome
+536	Blindness
+537	BLOOD CLOT
+538	Blood Clot In The Lungs
+539	Blood in Semen
+540	Blood Platelet Disorders
+541	Blood Poisoning
+542	Blood Pressure, High
+543	Blood Pressure, Low
+544	Bloom Syndrome
+545	Blount's Disease
+546	Blue Cone Monochromatism
+547	Blue Diaper Syndrome
+548	Blue Rubber Bleb Nevus Syndrome
+549	Body Dysmorphic Disorder
+550	Body Lice
+551	Body Odor and Sweating
+552	Boil
+553	Boils
+554	Bone Cancer
+555	Bone Infection
+556	Bone Loss
+557	Bone Neoplasm
+558	Bone Spurs
+559	Borderline Personality Disorder
+560	Bordetella Pertussis
+561	Bornholm Disease
+562	Borrelia
+563	Borreliosis
+564	Bothriocephalosis
+565	Botulism
+566	Bourneville's Disease
+567	Bovine Tuberculosis
+568	Bowel Incontinence
+569	Bowel Obstruction
+570	Bowen's Disease
+571	Boxer Ear
+572	Brachial Plexus Injury
+573	Brachydactyly
+574	Bradycardia
+575	Bradycardia-Tachycardia Syndrome
+576	Bradykinesia
+577	Brain Aneurysm
+578	Brain Attack
+579	BRAIN BLEED
+580	Brain Cavernous Angioma
+581	Brain Compression
+582	Brain Infection
+583	Brain Neoplasms
+584	Brain Tumor
+585	Brainerd Diarrhea
+586	Branchial Cyst
+587	Branchio-Oto-Renal Syndrome
+588	Branchiootorenal Syndrome
+589	Brazilian Pemphigus Foliaceus
+590	Brazilian Trypanosomiasis
+591	Breakbone Fever
+592	Breast Cancer
+593	Breast Engorgement
+594	Breast Infection
+595	Breast Pain
+596	Bright's Disease
+597	Brittle Bone Disease
+598	Broken Ankle
+599	Broken Arm
+600	Broken Blood Vessel in Eye
+601	Broken Hand
+602	Broken Hip
+603	Broken Leg
+604	Broken Nose
+605	Broken Ribs
+606	Bronchial Asthma
+607	Bronchiectasis
+608	Bronchiolitis
+609	Bronchiolitis Obliterans Organizing Pneumonia
+610	Bronchitis
+611	Bronchitis, Chronic
+612	Bronchopulmonary Dysplasia
+613	Bronze Diabetes
+614	Brown Syndrome
+615	Brucellosis
+616	Brugada Syndrome
+617	Bruton Agammaglobulinemia
+618	Bruxism
+619	Bubonic Plague
+620	Budd-Chiari Syndrome
+621	Buerger's Disease
+622	Bulging Disks
+623	Bulimia Nervosa
+624	Bullous pemphigoid
+625	Bundle Branch Block
+626	Bunions
+627	Bunyavirus
+628	Burning mouth syndrome
+629	Bursitis
+630	Bursitis Of The Hip
+631	Bursitis of the Knee
+632	BURSITIS, CALCIFIC
+633	Byssinosis
+634	C Syndrome
+635	C. Difficile
+636	CADASIL
+637	Cafe au lait spots
+638	Calcification
+639	Calcinosis
+640	Calcinosis cutis
+641	Calciphylaxis
+642	Calculi
+643	CAMFAC
+644	Campylobacter Infection
+645	Campylobacteriosis
+646	Canavan Disease
+647	Canavan leukodystrophy
+648	Cancer
+649	Cancer In Children
+650	Candidiasis
+651	Canine distempers
+652	Canker Sores
+653	Capillaritis
+654	Caplan's syndrome
+655	Carbohydrate deficient glycoprotein syndrome
+656	Carbon Monoxide Poisoning
+657	Carcinoid syndrome
+658	Carcinoid Tumors
+659	Carcinoma, squamous cell
+660	Cardiac amyloidosis
+661	Cardiac arrest
+662	Cardiac Syndrome X
+663	Cardiac tamponade
+664	Cardiofaciocutaneous syndrome
+665	Cardiomyopathy
+666	Cardiospasm
+667	Carney complex
+668	Carnitine Transporter Deficiency
+669	Carnitine-Acylcarnitine Translocase Deficiency
+670	Caroli Disease
+671	Carotenemia
+672	Carotid Artery Dissection
+673	Carpal Tunnel Syndrome
+674	Carpenter Syndrome
+675	Castleman's Disease
+676	Cat Eye Syndrome
+677	Cat-Scratch Disease
+678	Catatonic Schizophrenia
+679	CATCH 22 Syndrome
+680	Catel Manzke Syndrome
+681	Caudal Regression Syndrome
+682	Causalgia
+683	Cavernous Hemangioma
+684	Cavernous Sinus Thrombosis
+685	Cayler Syndrome
+686	CDG Syndrome
+687	Celiac Disease
+688	Celiac sprue
+689	Cellulite
+690	Cenani Lenz Syndactylism
+691	Central diabetes insipidus
+692	Central Diabetes Insipidus
+693	Central Pontine Myelinolysis
+694	Central serous chorioretinopathy
+695	Central Sleep Apnea
+696	Centronuclear myopathy
+697	Ceramidase deficiency
+698	Ceramide trihexosidosis
+699	Ceraunophobia
+700	Cercarial Dermatitis
+701	Cerebellar hypoplasia
+702	Cerebellar Vermis Agenesis
+703	Cerebral Abscesses
+704	Cerebral amyloid angiopathy
+705	Cerebral aneurism
+706	Cerebral cavernous malformation
+707	Cerebral Edema
+708	Cerebral gigantism
+709	Cerebral hypoxia
+710	Cerebral palsy
+711	Cerebral Thrombosis
+712	Cerebrocostomandibular Syndrome
+713	Cerebrohepatorenal Syndrome
+714	Cerebrotendinous Xanthomatosis
+715	Ceroid lipofuscinosis, neuronal
+716	Cerumen Impaction
+717	Cervical cancer
+718	Cervical Dystonia
+719	Cervical Osteoarthritis
+720	Cervicitis
+721	Cestodes
+722	Chagas disease
+723	Chalazion
+724	Chancroid
+725	Chandler's Syndrome
+726	Chaotic Atrial Tachycardia
+727	Chapped Lips (cheilitis)
+728	Charcot Disease
+729	Charcot Marie Tooth Disease
+730	CHARGE Syndrome
+731	Chediak-Higashi syndrome
+732	Chemodectoma
+733	Chemophobia
+734	Chen Kung Ho McAlister Syndrome
+735	Cherry Hemangioma
+736	Cherubism
+737	Chest Pain
+738	Chest Wall Pain
+739	Chiari Malformation
+740	Chickenpox
+741	Chikungunya
+742	Childhood Asthma
+743	Childhood disintegrative disorder
+744	Childhood Leukemia
+745	Childhood Nephrotic Syndrome
+746	Childhood Schizophrenia
+747	Chimerism
+748	Chinese Restaurant Syndrome
+749	Chlamydia
+750	Chlamydia trachomatis
+751	Choking
+752	Cholangiocarcinoma
+753	Cholangitis Primary Sclerosing
+754	Cholecystitis
+755	Cholelithiasis
+756	Cholera
+757	Cholestasis
+758	Cholestasis Of Pregnancy
+759	Cholesteryl ester storage disease
+760	Chondroblastoma
+761	Chondrocalcinosis
+762	Chondrocalinisis
+763	Chondrodermatitis Nodularis Helicis
+764	Chondrodystrophy
+765	Chondroectodermal dysplasia
+766	Chondroma
+767	Chondromalacia
+768	Chondromalacia Patella
+769	Chondrosarcoma
+770	Chordoma
+771	Chorea
+772	Chorea Acanthocytosis
+773	Choriocarcinoma
+774	Chorioretinitis
+775	Christmas disease
+776	Chromhidrosis
+777	Chromomycosis
+778	Chromosomal Translocations
+779	Chromosome 15q partial deletion
+780	Chromosome 15q trisomy
+781	Chromosome 22 microdeletion 22q11
+782	Chronic Adrenal Insufficiency
+783	Chronic berylliosis
+784	Chronic Cough
+785	Chronic Daily Headache
+786	Chronic Exertional Compartment Syndrome
+787	Chronic fatigue disorder
+788	Chronic granulomatous disease
+789	Chronic hiccup
+790	Chronic inflammatory demyelinating polyneuropathy
+791	Chronic Kidney Failure
+792	Chronic lymphocytic leukemia
+793	Chronic Lymphocytic Thyroiditis
+794	Chronic mountain sickness
+795	Chronic Myelogenous Leukemia
+796	Chronic Myelomonocytic Leukemia
+797	Chronic Necrotizing Vasculitis
+798	Chronic Neutropenia
+799	Chronic Obstructive Pulmonary Disease
+800	Chronic Pelvic Pain
+801	Chronic Progressive External Ophthalmoplagia
+802	Chronic Recurrent Multifocal Osteomyelitis
+803	Chronic Renal Failure
+804	Chronic Sinusitis
+805	Chronic Spasmodic Dysphonia
+806	Chronic Vulvar Pain
+807	Churg-Strauss Syndrome
+808	Chylous Ascites
+809	Cicatricial pemphigoid
+810	Ciguatera Fish Poisoning
+811	Cinchonism
+812	Cirrhosis
+813	Citrullinemia
+814	Clap
+815	Clarkson's disease
+816	Claudication
+817	Cleft Lip
+818	Cleft palate
+819	Cleidocranial Dysplasia
+820	Click Murmur Syndrome
+821	Clinical Depression
+822	Cloacal exstrophy
+823	Clostridium Difficile Infection
+824	Clubfoot
+825	Cluster Headache
+826	CMV Antenatal Infection
+827	Coal Workers' Pneumoconiosis
+828	Coats Disease
+829	Coccidiodomycosis
+830	Coccidioidomycosis
+831	Cockayne's Syndrome
+832	Coeliac Disease
+833	Coffin-Lowry Syndrome
+834	Coffin-Siris Syndrome
+835	Cogan Syndrome
+836	Cohen Syndrome
+837	Cold Agglutinin Disease
+838	Cold Contact Urticaria
+839	Cold Sores In Children
+840	Colibacillosis
+841	Colic
+842	Colitis
+843	Collagenous Colitis
+844	Collapsed Lung
+845	Coloboma, Ocular
+846	Colon Cancer
+847	Colon polyps
+848	Colon Polyps
+849	Colonic Ischemia
+850	Color blindness
+851	Colorado tick fever
+852	Colorectal Cancer
+853	Coma
+854	Combined hyperlipidemia, familial
+855	common cold
+856	Common Variable Immunodeficiency
+857	Community-Acquired Pneumonia
+858	Compartment syndrome
+859	Complex regional pain syndrome
+860	Complicated Grief
+861	Compulsive Gambling
+862	Compulsive Hoarding Syndrome
+863	Compulsive Overeating
+864	Compulsive Sexual Behavior
+865	Compulsive Skin Picking
+866	Compulsive Stealing
+867	Concussion
+868	Conduct Disorder
+869	conductive hearing loss
+870	Condyloma
+871	Condyloma acuminatum
+872	Cone dystrophy
+873	Congenital adrenal hyperplasia
+874	Congenital afibrinogenemia
+875	Congenital Amaurosis
+876	Congenital amputation
+877	Congenital antithrombin III deficiency
+878	Congenital Central Hypoventilation Syndrome
+879	Congenital cystic adenomatoid malformation
+880	Congenital deafness
+881	Congenital diaphragmatic hernia
+882	Congenital erythropoietic porphyria
+883	Congenital facial diplegia
+884	Congenital heart disease
+885	Congenital heart septum defect
+886	Congenital hepatic fibrosis
+887	Congenital herpes simplex
+888	Congenital hip Dysplasia
+889	Congenital hypothyroidism
+890	Congenital ichthyosis
+891	Congenital insensitivity to pain with anhidrosis
+892	Congenital Megacolon
+893	Congenital mesoblastic nephroma
+894	Congenital microvillus atrophy
+895	Congenital Myopathy
+896	Congenital nephrotic syndrome
+897	Congenital rubella
+898	Congenital Syphilis
+899	Congenital Toxoplasmosis
+900	Congestive Heart Disease
+901	Conjoined Twins
+902	Conjunctivitis
+903	Conn's Syndrome
+904	Constipation
+905	Constipation In Children
+906	Constitutional Growth Delay
+907	Contact Dermatitis
+908	Contact Lens Solution Toxicity
+909	Continuous Muscle Fiber Activity Syndrome
+910	Conversion Disorder
+911	Cooley's Anemia
+912	Copper Transport Disease
+913	Coproporhyria
+914	Cor Pulmonale
+915	Corneal Abrasion
+916	Corneal Dystrophy
+917	Corneal Erosion, Recurrent
+918	Corneal Foreign Body
+919	Cornelia de Lange Syndrome
+920	Corns
+921	Coronary Artery Disease
+922	Coronary Heart Disease
+923	Corpus Callosum Agenesis
+924	Cortical dysplasia
+925	Corticobasal degeneration
+926	Costello Syndrome
+927	Costochondritis
+928	Costosternal Chondrodynia
+929	Costosternal Syndrome
+930	Cot Death
+931	Cote Adamopoulos Pantelakis syndrome
+932	Couvade Syndrome
+933	Cowden's disease
+934	Cowpox
+935	Coxsackievirus Infection
+936	Cranial Arteritis
+937	Craniodiaphyseal dysplasia
+938	Craniofacial dysostosis
+939	Craniofrontonasal Dysplasia
+940	Craniostenosis
+941	Craniosynostosis
+942	CREST syndrome (Calcinosis Raynaud's Esophagus Sclerodactyly Telangiectasia)
+943	Cretinism
+944	Creutzfeldt-Jakob disease
+945	Cri du chat
+946	Crib Death
+947	Crigler Najjar Syndrome
+948	Crimean-Congo Haemorrhagic Fever
+949	Crohn's Disease
+950	Cronkhite-Canada disease
+951	Croup
+952	Crouzon Syndrome
+953	Crouzonodermoskeletal syndrome
+954	Crow-Fukase Syndrome
+955	Cryoglobulinemia
+956	Cryptococcosis
+957	Cryptorchidism
+958	Cryptosporidiosis
+959	Cryptosporidium Infection
+960	Cubital Tunnel Syndrome
+961	Currarino's triad
+962	Cushing's Syndrome
+963	Cutaneous anthrax
+964	Cutaneous Horn
+965	Cutaneous larva migrans
+966	Cutaneous lupus erythematosus
+967	Cutaneous T-cell lymphoma
+968	Cutis laxa
+969	Cutis marmorata telangiectatica congenita
+970	Cutis Rhomboidalis Nuchae
+971	Cutis verticis gyrata
+972	Cyclic neutropenia
+973	Cyclic vomiting syndrome
+974	Cyclospora Infection
+975	Cyclothymia
+976	Cyclothymic Disorder
+977	Cystathionine Beta Synthase Deficiency
+978	Cystic Fibrosis
+979	Cystic hygroma
+980	Cystinosis
+981	Cystinuria
+982	Cystitis
+983	Cystitis, Interstitial
+984	Cystocele
+985	Cytomegalic Inclusion Disease
+986	Cytomegalovirus
+987	Cytomegalovirus Cysts
+988	Dandruff
+989	Dandy Fever
+990	Dandy-Walker Syndrome
+991	Darier's Disease
+992	Daytime Sleepiness
+993	De Lange Syndrome
+994	De Quervain's Tenosynovitis
+995	De Sanctis-Cacchione Syndrome
+996	Deafblindness
+997	Decubitus Ulcer
+998	Deep Skin Infection
+999	Deep Vein Thrombosis
+1000	Deerfly Fever
+1001	Degenerative Joint Disease
+1002	Degenerative Nerve Disease
+1003	Degos Disease
+1004	Dejerine-Sottas Disease
+1005	Delayed Gastric Emptying
+1006	Delirium
+1007	Dementia Senilis
+1008	Demodicidosis
+1009	Demyelinating Disease
+1010	Dengue Fever
+1011	Dengue Hemorrhagic Fever
+1012	Dent's Disease
+1013	Dental Fluorosis
+1014	Dental Plaque
+1015	Dentinogenesis imperfecta
+1016	Depersonalization Disorder
+1017	Depression In Children
+1018	Depression In Older People
+1019	Dercum's Disease aka Adiposis dolorosa
+1020	Dermatitis herpetiformis
+1021	Dermatitis Statis
+1022	Dermatitis, Nipple
+1023	Dermatitis, Nummular
+1024	Dermatitis, Perioral
+1025	Dermatofibroma
+1026	Dermatographia
+1027	Dermatographic urticaria
+1028	Dermatomyositis
+1029	Dermatopathia pigmentosa reticularis
+1030	Dermatophytids
+1031	Dermatophytosis
+1032	DES Syndrome
+1033	Desmoid tumor
+1034	Desmoplastic small round cell tumor
+1035	Developmental Delay
+1036	Devic syndrome
+1037	Dextrocardia
+1038	Dextrocardia with Situs Inversus
+1039	Diabetes insipidus
+1040	Diabetes mellitus
+1041	Diabetes, insulin dependent
+1042	Diabetic angiopathy
+1043	Diabetic Coma
+1044	Diabetic Dermopathy
+1045	Diabetic Hyperosmolar Syndrome
+1046	Diabetic Ketoacidosis
+1047	Diabetic nephropathy
+1048	Diabetic neuropathies
+1049	Diabetic Retinopathy
+1050	Diamond blackfan disease
+1051	Diaper Rash
+1052	Diaphragmatic hernia, congenita
+1053	Diarrhoea
+1054	Diastrophic dysplasia
+1055	Dibasic aminoaciduria type 2
+1056	Diffuse Astrocytomas
+1057	Diffuse Idiopathic Skeletal Hyperostosis
+1058	Diffuse parenchymal lung disease (DPLD)
+1059	DiGeorge Sequence
+1060	DiGeorge Syndrome
+1061	Dihydropyrimidine dehydrogenase deficiency
+1062	Dilated cardiomyopathy
+1063	Dimitiri Disease
+1064	Diphallia
+1065	Diptheria
+1066	Discitis
+1067	Discoid Lupus Erythematosus
+1068	Disintegrative Psychosis
+1069	Dislocated Shoulder
+1070	Dislocation
+1071	Disorganized Schizophrenia
+1072	Dissecting Aneurysm
+1073	Dissociative Amnesia
+1074	Distal myopathy
+1075	Diverticulitis
+1076	Dizziness
+1077	Dizziness in children
+1078	Dominant Ichthyosis vulgaris
+1079	Double outlet right ventricle
+1080	Double Uterus
+1081	Douche, Vaginal
+1082	Downs syndrome
+1083	Doxorubicin-induced cardiomyopathy
+1084	Dracunculiasis
+1085	Dressler's Syndrome
+1086	Dropsy
+1087	Drug Eruption
+1088	Drug Induced Liver Disease
+1089	Dry Mouth
+1090	Dry Skin
+1091	Dry Socket
+1092	Duane syndrome
+1093	Dubin-Johnson syndrome
+1094	Dubowitz syndrome
+1095	Duchenne muscular dystrophy
+1096	Ductal Carcinoma in Situ
+1097	Dumping Syndrome
+1098	Duodenal Atresia
+1099	Dupuytren's contracture
+1100	Dust Mite Allergy
+1101	Dwarfism
+1102	Dysautonomia
+1103	Dysbarism
+1104	Dysencephalia splachnocyxtica
+1105	Dysfibrinogenemia, familial
+1106	Dysgerminoma
+1107	Dysgraphia
+1108	Dyshidrosis
+1109	Dyskeratosis congenita
+1110	Dyskinesia
+1111	Dyskinesia, drug induced
+1112	Dyslexia
+1113	Dyslexia Dysgraphia Dyscalculia
+1114	Dyslexia In Children
+1115	Dysmenorrhea
+1116	Dysmetabolic Syndrome
+1117	Dysmorphophobia
+1118	Dysmotility
+1119	Dysostosis
+1120	Dysparenia
+1121	Dyspepsia
+1122	Dyspepsia Nonulcer
+1123	Dysphagia
+1124	Dysphasia
+1125	Dysplastic Nevi
+1126	dysplastic nevus syndrome
+1127	Dyspraxia
+1128	Dysrhythmias
+1129	Dysthymia
+1130	Dysthymic Disorder
+1131	Dystonia
+1132	Dystonia, Cervical
+1133	Dystrophia myotonica
+1134	Eagle Barrett Syndrome
+1135	Eale's disease
+1136	Ear Infection, Middle Ear
+1137	Eardrum, Ruptured
+1138	Early Menopause
+1139	Early Puberty
+1140	Earwax Blockage
+1141	Eating Emotional
+1142	Ebola hemorrhagic fever
+1143	Ebstein's anomaly
+1144	Echolalia
+1145	Eclampsia
+1146	Ectodermal dysplasia
+1147	Ectopia cordis
+1148	Ectopic Heartbeat
+1149	ectopic pregnancy
+1150	Ectrodactyly
+1151	Eczema
+1152	Eczema Dyshidrotic
+1153	ED (Erectile Dysfunction)
+1154	Edema
+1155	Edwards' syndrome
+1156	Egg Allergy
+1157	Egg Hypersensitivity
+1158	Ehlers-Danlos Syndrome
+1159	Ehrlichiosis
+1160	Eight Day Measles
+1161	Eisenmenger's syndrome
+1162	Elective mutism
+1163	Elephantiasis
+1164	Ellis-van Creveld syndrome
+1165	Emery-Dreifuss muscular dystrophy
+1166	emetophobia
+1167	emphysema
+1168	empty sella syndrome
+1169	Empyema
+1170	encephalitis
+1171	encephalitis lethargica
+1172	encephalocele
+1173	Encephalocele Anencephaly
+1174	encephalomyelitis
+1175	Encephalomyelitis, Myalgic
+1176	Encephalopfacial Angiomatosis
+1177	Encopresis
+1178	End Stage Renal Disease
+1179	Endocardial Cushion Defect
+1180	Endocardial fibroelastosis
+1181	endocarditis
+1182	Endocarditis, infective
+1183	Endocrinopathy
+1184	Endometrial Cancer
+1185	Endometrial Polyps
+1186	Endometriosis
+1187	Endomyocardial fibrosis
+1188	Enetophobia
+1189	Eneuresis
+1190	Enlarged Heart
+1191	Enlarged Liver
+1192	Enlarged Prostate
+1193	Enlarged Spleen
+1194	Enlarged Thyroid
+1195	Enteric Fever
+1196	Enterocele
+1197	Enterocolitis
+1198	Entropion
+1199	Enuresis
+1200	Eosinophilia
+1201	Eosinophilia - myalgia syndrome
+1202	Eosinophilic Esophagitis
+1203	Eosinophilic fasciitis
+1204	Eosinophilic gastroenteritis
+1205	Eosinophilic granuloma
+1206	Ependymoblastoma
+1207	Ependymoma
+1208	Epicondylitis
+1209	Epidermodysplasia verruciformis
+1210	Epidermoid carcinoma
+1211	Epidermoid Cysts
+1212	Epidermolysis bullosa
+1213	Epidermolytic hyperkeratosis
+1214	Epididymitis
+1215	Epidural Hematoma
+1216	Epiglottitis
+1217	Epilepsy
+1218	Epilepsy In Children
+1219	Epilepsy juvenile absence
+1220	Episcleritis
+1221	Epispadias
+1222	Epstein barr virus mononucleosis
+1223	Equinophobia
+1224	Erb-Duchenne palsy
+1225	Erdheim-Chester syndrome
+1226	Ergophobia
+1227	Erysipelas
+1228	Erysipeloid
+1229	Erythema
+1230	Erythema Infectiosum
+1231	Erythema Multiforme
+1232	Erythema Nodosum
+1233	Erythrasma
+1234	Erythroderma
+1235	Erythromelalgia
+1236	Erythromelalgia,
+1237	Erythroplakia
+1238	Erythropoietic protoporphyria
+1239	Erythropoietic Protoporphyria
+1240	Escherichia Coli Infection
+1241	Esophageal atresia
+1242	Esophageal Cancer
+1243	Esophageal disorders
+1244	Esophageal Diverticulum
+1245	Esophageal neoplasm
+1246	Esophageal Ring
+1247	Esophageal Spasms
+1248	Esophageal Stricture
+1249	Esophageal Ulcer
+1250	Esophageal varices
+1251	Esophagitis
+1252	Esotropia
+1253	essential hypertension
+1254	Essential Mixed Cryoglobulinemia
+1255	essential thrombocytopenia
+1256	essential thrombocytosis
+1257	Essential Tremor
+1258	Ethylmalonic aciduria
+1259	Evans' Syndrome
+1260	Ewing's sarcoma
+1261	Excessive Sweating
+1262	Exhibitionism
+1263	Exogenous lipoid pneumonia
+1264	Exophthalmos
+1265	Exostoses, multiple
+1266	exostosis
+1267	Exploding head syndrome
+1268	Extensively Drug Resistant Tuberculosis
+1269	External Compression Headaches
+1270	External Otitis
+1271	Extra Nipples
+1272	Extradural Hematoma
+1273	Extrapontine Myelinolysis
+1274	Extrophy of the Bladder
+1275	Eye Cancers
+1276	Eye Floaters
+1277	Eye Melanoma
+1278	Eye Melanoma Cancer
+1279	Eye Neuropathy
+1280	Eyelid Cysts
+1281	Eyelid Inflammation
+1282	Fabry disease
+1283	Facet Degeneration
+1284	Facial Palsy
+1285	Facial paralysis
+1286	Faciocutaneoskeletal Syndrome
+1287	Facioscapulohumeral muscular dystrophy
+1288	Factitious Disorder
+1289	Factor II deficiency
+1290	Factor V Deficiency
+1291	Factor V Leiden Mutation
+1292	Factor VII Deficiency
+1293	Factor VIII Deficiency
+1294	Factor X Deficiency, Congenital
+1295	Factor XI Deficiency, Congenital
+1296	Factor XIII Deficiency, Congenital
+1297	Fahr's Disease
+1298	Fainting
+1299	Fallen Arches
+1300	Fallen Bladder
+1301	Fallot Tetralogy
+1302	Familial Adenomatous Polyposis
+1303	Familial amyloid polyneuropathy
+1304	Familial Emphysema
+1305	Familial Mediterranean fever
+1306	Familial paroxysmal peritonitis
+1307	familial periodic paralysis
+1308	familial polyposis
+1309	Fan death
+1310	Fanconi syndrome
+1311	Fanconi syndrome, renal, with nephrocalcinosis and renal stones
+1312	Fanconi's anemia
+1313	Farber's disease
+1314	farmer's lung
+1315	Farsightedness
+1316	Fasciculations
+1317	Fascioliasis
+1318	Fatal Familial Insomnia
+1319	Fatigue From Cancer Fatigue
+1320	Fatty Liver
+1321	Favism
+1322	Fazio Londe Syndrome
+1323	Febrile Convulsions
+1324	Febrile seizure
+1325	Fecal Impaction
+1326	Fecal Incontinence
+1327	Feer Disease
+1328	Feingold Syndrome
+1329	Feline Spongiform Encephalopathy
+1330	Felty's Syndrome
+1331	Female Carrier ALD
+1332	Female Infertility
+1333	Female Pseudo Turner Syndrome
+1334	Female Pseudohermaphroditism
+1335	Female Sexual Dysfunction
+1336	Feminisation
+1337	Fetal alcohol Syndrome
+1338	Fetal Diethylstilbestrol Syndrome
+1339	Fetal Face Syndrome
+1340	Fetal Hydantoin Syndrome
+1341	Fetal Methyl Mercury Syndrome
+1342	Fetal thalidomide syndrome
+1343	Fetal warfarin syndrome
+1344	Fetishism
+1345	Fever
+1346	Fever Blister
+1347	Fg Syndrome
+1348	Fibrocystic Breast Disease
+1349	Fibrodysplasia ossificans progressiva
+1350	Fibroma
+1351	Fibromatosis
+1352	Fibromuscular dysplasia
+1353	Fibromyalgia
+1354	Fibromyomas
+1355	Fibrosarcoma
+1356	Fibrosis
+1357	Fibrous dysplasia
+1358	Fifth Disease
+1359	Filariasis
+1360	Filovirus
+1361	Finger Fracture
+1362	Fish Tank Granuloma
+1363	Fissured tongue
+1364	Fistula
+1365	Fitz-Hugh-Curtis syndrome
+1366	Fitzsimmons-Guilbert syndrome
+1367	Flaky Scalp
+1368	Flatfeet
+1369	Flatulence
+1370	Flavimonas oryzihabitans
+1371	Flea Bites
+1372	Flesh eating bacteria
+1373	Floating Harbor Syndrome
+1374	Floppy Valve Syndrome
+1375	Flourosis
+1376	Flu
+1377	Flynn-Aird syndrome
+1378	focal dystonia
+1379	Focal Seizures
+1380	Foix-Alajouanine syndrome
+1381	Foix-Chavany-Marie syndrome
+1382	Folate Deficiency
+1383	Folate Deficiency Anemia
+1384	Follicular lymphoma
+1385	Folliculitis
+1386	Folling Disease
+1387	Food Allergy
+1388	Food Intolerance
+1389	Food Poisoning
+1390	Foodborne Illness
+1391	Foot Drop
+1392	Foot Ulcer
+1393	Forbes disease
+1394	Fordyce Spots
+1395	Forestier's Disease
+1396	Formaldehyde poisoning
+1397	Fountain syndrome
+1398	Fox-Fordyce disease
+1399	Fracture, Greenstick
+1400	Fracture, Growth Plate
+1401	Fracture, Stress
+1402	Fractured Femur
+1403	Fragile X syndrome
+1404	Frambesia
+1405	Francois Dyscephalic Syndrome
+1406	Fraser syndrome
+1407	FRAXA syndrome
+1408	Freeman-Sheldon syndrome
+1409	Frey's syndrome
+1410	Friedreich's ataxia
+1411	Frigidity
+1412	Froelich's Syndrome
+1413	Frontal Lobe Epilepsy
+1414	Frontal Lobe Seizures
+1415	Frontotemporal Dementia
+1416	Frontotemporal Lobar Degeneration
+1417	Frostbite
+1418	Frozen Shoulder
+1419	Fructose Intolerance
+1420	Fructosuria
+1421	Fugue, Dissociative
+1422	Fulminant Liver Failure
+1423	Fumarylacetoacetase Deficiency Disease
+1424	Fungal Infection, Nail
+1425	Fungal Meningitis
+1426	Funnel Chest
+1427	G6pd Deficiency
+1428	Galactocele
+1429	Galactokinase deficiency
+1430	Galactorrhea
+1431	Galactose-1-phosphate uridyltransferase deficiency
+1432	Galactosemia
+1433	Gall Bladder Disease
+1434	Gallbladder Cancer
+1435	Galloway Mowat syndrome
+1436	Gamstorp episodic adynamy
+1437	Ganglioglioma
+1438	Ganglion Cyst
+1439	Gangrene
+1440	Ganser Syndrome
+1441	Gardner Syndrome
+1442	Gas
+1443	Gas In The Digestive Tract
+1444	Gas Pains
+1445	Gastric Cancer
+1446	Gastric Dumping Syndrome
+1447	Gastric Emptying, Rapid
+1448	Gastric Erosion
+1449	Gastric Lymphoma
+1450	Gastritis
+1451	Gastroenteritis
+1452	Gastroenteritis, Eosinophilic
+1453	Gastrointestinal Anthrax
+1454	Gastrointestinal Basidiobolomycosis
+1455	Gastrointestinal Bleeding
+1456	Gastrointestinal Cancers
+1457	Gastrointestinal Stromal Tumors
+1458	Gastroparesis
+1459	gaucher disease type 1
+1460	gaucher disease type 2
+1461	gaucher disease type 3
+1462	gaucher disease type 4
+1463	Geleophysic Dwarfism
+1464	gelineau disease
+1465	Gender Identity Disorder
+1466	Generalized Anxiety Disorder
+1467	Genetic Disorders Inborn
+1468	Genital Herpes
+1469	Genital System Cancer
+1470	Genital Warts
+1471	Genu varum
+1472	Genuphobia
+1473	Geographical tongue
+1474	GERD
+1475	Gerhardt Disease
+1476	German Measles
+1477	German Measles (Rubella)
+1478	German Syndrome
+1479	Germinal Mosaicism
+1480	Gerstmann Syndrome
+1481	Gerstmann-Straussler-Scheinker Syndrome
+1482	Gestational Diabetes Mellitus
+1483	Gestational Pemphigoid
+1484	Gestational Trophoblastic Disease
+1485	Giant Axonal Neuropathy
+1486	Giant Cell Arteritis
+1487	Giant Lymph Node Hyperplasia
+1488	Giant Papillary Conjunctivitis
+1489	Giant Platelet Syndrome
+1490	Giardia Infection
+1491	GIARDIA LAMBLIA
+1492	Giardiasis
+1493	Gigantism
+1494	Gilbert's Syndrome
+1495	Gilles de la Tourette's Syndrome
+1496	Gingivitis
+1497	Gingivostomatitis
+1498	Gitelman Syndrome
+1499	Gittings Syndrome
+1500	Glanders
+1501	GLANDULAR FEVER
+1502	Glanzmann's Thrombasthenia
+1503	Glaucoma
+1504	Glioblastoma
+1505	Glioblastoma multiforme
+1506	Glioma
+1507	Gliomatosis cerebri
+1508	Gliosarcoma
+1509	Glomerular
+1510	Glomerulonephritis
+1511	Glomerulosclerosis
+1512	Glossitis
+1513	Glossodynia
+1514	Glossophobia
+1515	Glucagonoma
+1516	Glucocerebrosidase Deficiency
+1517	Glucose-6-phosphate dehydrogenase deficiency
+1518	Glucose-galactose malabsorption
+1519	Glue Ear
+1520	Glutaryl-CoA dehydrogenase deficiency
+1521	Gluten-Sensitive Enteropathy
+1522	Glycogen storage disease
+1523	Glycogen storage disease type 1B
+1524	Glycogen storage disease type 7
+1525	Glycogen storage disease type II
+1526	Glycogen storage disease type V
+1527	Glycogen storage disease type VI
+1528	Glycogen storage disease type VII
+1529	Glycosuria
+1530	Goitre
+1531	Goldenhar syndrome
+1532	Golfer's Elbow
+1533	Gonadal dysgenesis
+1534	Gonadal Dysgenesis Mixed
+1535	Gonadal Dysgenesis Turner Type
+1536	Gonadal Dysgenesis, XX Type
+1537	Gonadal Dysgenesis, XY Female Type
+1538	Gonococcal Conjunctivitis
+1539	Gonorrhea
+1540	Goodpasture Pneumorenal Syndrome
+1541	Goodpasture's syndrome
+1542	Gorham's disease
+1543	Gorlin Syndrome
+1544	Gout
+1545	Graft versus host disease
+1546	Grand Mal Seizure
+1547	Granulocytopenia
+1548	Granuloma annulare
+1549	Granuloma Inguinale
+1550	Granuloma, Pyogenic
+1551	Granulomatous Amebic Encephalitis
+1552	Graves' disease
+1553	Gray platelet syndrome
+1554	Great vessels transposition
+1555	Greenberg Dysplasia
+1556	Grippe
+1557	Griscelli Disease
+1558	Gronblad Strandberg Syndrome
+1559	Gross Hematuria
+1560	Group B Streptococcus
+1561	Grover's disease
+1562	Growing Pains
+1563	Growth delay, constitutional
+1564	Growth hormone deficiency
+1565	Growth Problems
+1566	Guanidinoacetate Methyltransferase Deficiency
+1567	Guerin Stern Syndrome
+1568	Guillan-Barre syndrome
+1569	Guinea Worm Disease
+1570	Gulf War Syndrome
+1571	Gum Cancer
+1572	Gum Disease
+1573	Gustatory Sweating
+1574	Gymnophobia
+1575	Gynecomastia
+1576	H. Pylori Infection
+1577	Haemophilus Influenzae Type B
+1578	Hageman Factor Deficiency
+1579	Hailey Hailey Disease
+1580	Hair-Pulling Disease
+1581	Hairy Cell Leukemia
+1582	Hairy Leukoplakia
+1583	Hairy Tongue
+1584	Hajdu-Cheney Syndrome
+1585	Halitosis
+1586	Hallermann Streff Syndrome
+1587	Hallervorden-Spatz Disease
+1588	Hallucination
+1589	Hallux Valgus
+1590	Hamburger Disease
+1591	Hammertoe
+1592	Hand Foot Mouth Disease
+1593	Hand Wringing Rett Syndrome
+1594	Hand-Schuller-Christian Disease
+1595	Hanhart Syndrome
+1596	Hansen's Disease
+1597	Hantavirosis
+1598	Hantavirus Pulmonary Syndrome
+1599	HARD Syndrome
+1600	Harlequin Type Ichthyosis
+1601	Harpaxophobia
+1602	Hartnup Disease
+1603	Hashimoto's thyroiditis
+1604	Hay Fever
+1605	Hay-Wells Syndrome
+1606	Head And Neck Cancer
+1607	Head Cancer
+1608	Head Lice
+1609	Headache Free Migraine
+1610	Headache, cluster
+1611	Headache, Cluster
+1612	Headache, Ice Cream
+1613	Headache, Primary Cough
+1614	Headache, Rebound
+1615	Headache, Sex
+1616	Headache, Sinus
+1617	Headache, Spinal
+1618	Headache, Tension
+1619	Headache, Thunderclap
+1620	Headaches In Children
+1621	Hearing disorders
+1622	Hearing Impairment
+1623	Hearing Loss
+1624	Heart Arrhythmias
+1625	Heart Attack
+1626	Heart Babies
+1627	Heart block
+1628	Heart Failure
+1629	Heart Murmur
+1630	Heart situs Anomaly
+1631	Heartburn
+1632	HEAT CRAMPS
+1633	Heat Exhaustion
+1634	Heat Rash
+1635	Heat Stroke
+1636	Heavy Metal Poisoning
+1637	Heel Spur
+1638	Helicobacter Pylori
+1639	Heliophobia
+1640	Heller's Syndrome
+1641	HELLP Syndrome
+1642	Helminthiasis
+1643	Hemachromatosis
+1644	Hemangioblastoma
+1645	Hemangioendothelioma
+1646	Hemangioma
+1647	Hemangioma Thrombocytopenia Syndrome
+1648	Hematuria (Blood in Urine)
+1649	Hemianopia
+1650	Hemifacial Microsomia
+1651	Hemifacial Spasm
+1652	Hemihypertrophy
+1653	Hemimegalencephaly
+1654	Hemiplegia
+1655	Hemiplegia Alterans
+1656	Hemmorhagic Fever
+1657	Hemochromatosis
+1658	Hemoglobinopathy
+1659	Hemoglobinuria
+1660	Hemolytic Anemia
+1661	Hemolytic Disease Of The Newborn
+1662	Hemolytic Uremic Syndrome
+1663	Hemolytic-Uremic Syndrome
+1664	Hemophagocytic Lymphohistiocytosis
+1665	Hemophilia
+1666	Hemophilia A
+1667	Hemophobia
+1668	Hemorrhage
+1669	Hemorrhagiparous Thrombocytic Dystrophy
+1670	Hemorrhoids
+1671	Hemothorax
+1672	Hendra Virus
+1673	Henoch-Schonlein Purpura
+1674	Heparin-Induced Thrombocytopenia
+1675	Hepatic Encephalopathy
+1676	Hepatic Hemangioma
+1677	Hepatic Veno-Occlusive Disease
+1678	Hepatitis
+1679	Hepatitis A
+1680	Hepatitis B
+1681	Hepatitis C
+1682	Hepatitis D
+1683	Hepatitis E
+1684	Hepatitis non-A (alcoholic hepatitis)
+1685	Hepatitis non-A non-B (Hepatitis e,f,g)
+1686	Hepatitis non-B (drug-induced hepatitis)
+1687	Hepatitis X
+1688	Hepatitis, chronic autoimmune
+1689	Hepatitis, Toxic
+1690	Hepatoblastoma
+1691	Hepatocellular carcinoma
+1692	Hepatocerebral Degeneration
+1693	Hepatolenticular Degeneration
+1694	Hepatoma
+1695	Hepatomegaly
+1696	Hepatorenal syndrome
+1697	Hereditary amyloidosis
+1698	Hereditary angioedema
+1699	Hereditary ataxia
+1700	Hereditary ceroid lipofuscinosis
+1701	Hereditary coproporphyria
+1702	Hereditary deafness
+1703	Hereditary Deafness Retinitis Pigmentosa
+1704	Hereditary elliptocytosis
+1705	Hereditary fructose intolerance
+1706	Hereditary hemochromatosis
+1707	Hereditary hemorrhagic telangiectasia
+1708	Hereditary non-spherocytic hemolytic anemia
+1709	Hereditary pancreatitis
+1710	Hereditary Sensory Motor Neuropathy
+1711	Hereditary spastic paraplegia
+1712	Hereditary spherocytosis
+1713	Heritable Disorders Of Connective Tissue
+1714	Hermansky-Pudlak Syndrome
+1715	Hermaphroditism
+1716	Hernia
+1717	Hernia In Children
+1718	Hernia, Inguinal
+1719	Hernia, Umbilical
+1720	Herniated Disc
+1721	Herpangina
+1722	Herpes
+1723	Herpes Gestationis
+1724	Herpes of the Eye
+1725	Herpes simplex disease
+1726	Herpes simplex encephalitis
+1727	Herpes Simplex Virus, Genital
+1728	Herpes Simplex Virus, Orofacial
+1729	Herpes Simplex Virus, Sacral
+1730	Herpes viridae disease
+1731	Herpes zoster
+1732	Herpes zoster oticus
+1733	Herpetic keratitis
+1734	Herpetic Whitlow
+1735	Heterophobia
+1736	HHH syndrome
+1737	Hiatal Hernia
+1738	Hiccups
+1739	Hidradenitis suppurativa
+1740	High Altitude Cerebral Edema
+1741	High Altitude Pulmonary Edema
+1742	High Cholesterol
+1743	Hip dysplasia
+1744	Hip Labral Tear
+1745	Hirschsprung's disease
+1746	Hirsutism
+1747	Histidinemia
+1748	Histiocytosis X
+1749	Histoplasmosis
+1750	Histrionic Personality Disorder
+1751	Hives
+1752	Hoarding
+1753	Hoarse Voice
+1754	Hodgkin's disease
+1755	Holocarboxylase synthetase deficiency
+1756	Holoprosencephaly
+1757	Holt-Oram syndrome
+1758	Homocystinuria
+1759	Hookworm
+1760	Hordelum
+1761	Horn Kolb syndrome
+1762	Horner's syndrome
+1763	Horseshoe kidney
+1764	Hot Flashes
+1765	Hot Tub Rash
+1766	Howel-Evans syndrome
+1767	HPV Infection
+1768	HSV-2 infection
+1769	Hughes Syndrome
+1770	Human Adjuvant Disease
+1771	Human granulocytic ehrlichiosis
+1772	Human Head Lice
+1773	Human Immunodeficiency Virus
+1774	Human Papillomavirus Infection
+1775	Human Parvovirus B19 infection
+1776	Human T Cell lymphotropic Virus (HTLV)
+1777	Hunchback
+1778	Hunt's Syndrome
+1779	Hunter syndrome
+1780	Huntington's Chorea
+1781	Huntington's disease
+1782	Hurler syndrome
+1783	Hurthle cell Cancer
+1784	Hutchinson incisors
+1785	Hutchinson-Gilford syndrome
+1786	Hydatid Disease
+1787	Hydatidiform mole
+1788	Hydatidosis
+1789	Hydranencephaly
+1790	Hydrocele
+1791	Hydrocephalus
+1792	Hydrocephalus In Children
+1793	Hydronephrosis
+1794	Hydrophobia
+1795	Hydrops fetalis
+1796	Hydrosyringomyelia
+1797	Hydroxyapatite Crystal Disease
+1798	Hymenolepiasis
+1799	Hyper IgE Syndrome
+1800	Hyper-IgD Syndrome
+1801	Hyperactive Sexual Desire Disorder
+1802	Hyperadrenalism
+1803	Hyperaldosteronism
+1804	Hyperammonemia
+1805	Hyperandrogenism
+1806	Hyperbilirubinemia
+1807	Hypercalcaemia
+1808	Hypercholesterolemia
+1809	Hyperchylomicronemia
+1810	Hypercortisolism
+1811	Hyperemesis Gravidarum
+1812	Hypereosinophilic Syndrome
+1813	Hyperexplexia
+1814	Hyperglycemia
+1815	Hyperglycemic Hyperosmolar Nonketotic Syndrome
+1816	Hyperglycinemia (Nonketotic)
+1817	Hyperhidrosis
+1818	Hyperhomocysteinemia
+1819	Hyperinsulinemia
+1820	Hyperkalemia
+1821	Hyperkalemic Periodic Paralysis
+1822	Hyperkalemic Renal Tubular Acidosis
+1823	Hyperlexia
+1824	Hyperlipidemia
+1825	Hypermagnesemia
+1826	Hypermenorrhea
+1827	Hypermobility Syndrome
+1828	Hypernatremia
+1829	Hyperopia
+1830	Hyperoxaluria
+1831	Hyperparathyroidism
+1832	Hyperpigmentation, Post-Inflammatory
+1833	Hyperpituitarism
+1834	Hyperprolactinaemia
+1835	Hyperprolinemia
+1836	Hyperreflexia
+1837	Hypersexuality
+1838	Hypersomnia
+1839	hypertension
+1840	Hypertension, Pregnancy-Related
+1841	Hypertensive Heart Disease
+1842	Hypertensive Retinopathy
+1843	Hyperthermia
+1844	Hyperthyroidism
+1845	Hypertrichosis
+1846	Hypertrophic Cardiomyopathy
+1847	Hypertropia
+1848	Hyperventilation
+1849	Hyper_Igm_Syndrome
+1850	Hyphema
+1851	Hypoadrenalism
+1852	Hypoaldosteronism
+1853	hypocalcemia
+1854	Hypochondria
+1855	Hypochondrias
+1856	Hypochondrogenesis
+1857	Hypochondroplasia
+1858	Hypocortisolism
+1859	Hypogeusia
+1860	hypoglycemia
+1861	hypogonadism
+1862	Hypohidrosis
+1863	Hypohidrotic ectodermal dysplasia
+1864	Hypohydration
+1865	Hypokalemia
+1866	Hypokalemic periodic paralysis
+1867	hypokalemic sensory overstimulation
+1868	Hypolipoproteinemia
+1869	Hyponatremia
+1870	hypoparathyroidism
+1871	Hypophosphatasia
+1872	Hypopigmentation, Post-Inflammatory
+1873	Hypopituitarism
+1874	Hypoplastic left heart syndrome
+1875	Hypoprothrombinaemia
+1876	Hyposmia
+1877	Hypospadias
+1878	Hyposplenism
+1879	Hypotension
+1880	Hypothalamic Dysfunction
+1881	Hypothalamic hamartoblastoma syndrome
+1882	Hypothermia
+1883	Hypothryoidism In Children
+1884	hypothyroidism
+1885	Hypotrichosis
+1886	Hypotropia
+1887	Hypoxia
+1888	Hysteria
+1889	ICF Syndrome
+1890	Ichthyophobia
+1891	Ichthyosis Vulgaris
+1892	Icterus
+1893	Icu Psychosis
+1894	Idiopathic Acute Eosinophilic Pneumonia
+1895	Idiopathic Adolescent Scoliosis
+1896	Idiopathic pulmonary fibrosis
+1897	Idiopathic pulmonary haemosiderosis
+1898	Idiopathic thrombocytopenic purpura
+1899	IgA deficiency
+1900	Ileitis
+1901	Iliotibial Band Friction Syndrome
+1902	Iliotibial band Syndrome
+1903	Illum syndrome
+1904	Impacted Wisdom Tooth
+1905	Impaired Glucose Tolerance
+1906	Imperforate anus
+1907	Imperforate Hymen
+1908	Impetigo
+1909	Impingement Syndrome
+1910	Impossible syndrome
+1911	Impotence
+1912	Inborn branched chain aminoaciduria
+1913	Inborn errors of metabolism
+1914	Inclusion Body Myositis
+1915	Inclusion conjunctivitis
+1916	Incontinence, Urinary
+1917	Incontinentia Pigmenti
+1918	Indigestion
+1919	Infant respiratory distress syndrome
+1920	Infantile Paralysis
+1921	Infantile spasms
+1922	Infantile spinal muscular atrophy
+1923	Infectious arthritis
+1924	Infective endocarditis
+1925	Infertility
+1926	Inflammatory Bowel Disease
+1927	Inflammatory breast cancer
+1928	Influenza
+1929	Ingrown Toenail
+1930	Inguinal hernia
+1931	Inguinal Hernia
+1932	Insomnia
+1933	Insulin Resistance
+1934	Insulinoma
+1935	Intercostal Neuralgia
+1936	Intermitten Claudication
+1937	Intermittent Explosive Disorder
+1938	INTERNAL BLEEDING
+1939	Interstitial cystitis
+1940	Interstitial Lung Disease
+1941	Intertrigo
+1942	Intestinal Adhesions
+1943	Intestinal Flu
+1944	Intestinal Ischemia
+1945	Intestinal Lipodystrophy
+1946	Intestinal Obstruction
+1947	Intestinal Pseudo Obstruction
+1948	Intestinal pseudo-obstruction
+1949	Intracranial Hematoma
+1950	Intracranial Hypotension
+1951	Intraductal Carcinoma
+1952	Intraocular Lymphoma
+1953	Intraocular Melanoma
+1954	Intratuterine Growth Retardation
+1955	Intrauterine Dwarfism
+1956	Intussusception
+1957	Invasive Lobular Carcinoma
+1958	Iodine Deficiency
+1959	Iridocorneal Endothelial Syndrome
+1960	Iridocyclitis
+1961	Iritis
+1962	Iron Deficiency
+1963	Iron Deficiency Anemia
+1964	Iron Overload
+1965	Iron Poisoning
+1966	Irregular Heartbeat
+1967	Irritable Bladder
+1968	Irritable Bowel Syndrome
+1969	Isaac's Syndrome
+1970	Ischemic Colitis
+1971	Itchy Skin
+1972	IV Infection
+1973	Ivy Poison
+1974	Jackson-Weiss syndrome
+1975	Jacobsen Syndrome
+1976	Japanese Encephalitis
+1977	Jarcho-Levin Syndrome
+1978	Jaundice
+1979	Jaundice In Children
+1980	Jejunal Atresia
+1981	Jervell and Lange-Nielsen Syndrome
+1982	Job syndrome
+1983	Jock Itch
+1984	Johnson Munson Syndrome
+1985	Joseph Disease
+1986	Joubert Syndrome
+1987	Jumping Frenchmen of Maine
+1988	Juvenile Dermatomyositis
+1989	Juvenile Myoclonic Epilepsy
+1990	Juvenile Plantar Dermatosis
+1991	Juvenile Rheumatoid Arthritis
+1992	Juvenile-Onset Schizophrenia
+1993	Kabuki Syndrome
+1994	Kallman Syndrome with Spastic Paraplegia
+1995	Kaolin Pneumoconiosis
+1996	Kaposi Sarcoma
+1997	Karsch Neugebauer syndrome
+1998	Kartagener Syndrome
+1999	Kaufman Oculocerebrofacial syndrome
+2000	Kawasaki Syndrome
+2001	Kearns-Sayre Syndrome
+2002	Keloids
+2003	Kennedy Disease
+2004	Keratitis
+2005	Keratoacanthoma
+2006	Keratoconjunctivitis Sicca
+2007	Keratoconus
+2008	Keratolysis, Pitted
+2009	Keratosis
+2010	Keratosis Pilaris
+2011	Keratosis,seborrheic
+2012	Kerion
+2013	Kernicterus
+2014	Ketotic Glycinemia
+2015	Kidney Cancer
+2016	Kidney Failure
+2017	Kidney Failure, Acute
+2018	Kidney Infection
+2019	Kidney Stones
+2020	Kikuchi Disease
+2021	King-Denborough syndrome
+2022	Kissing Disease
+2023	Kleine Levin Syndrome
+2024	Kleptomania
+2025	Klinefelter's Syndrome
+2026	Klippel Trenaunay Weber Syndrome
+2027	Klippel-Feil syndrome
+2028	Klumpke Paralysis
+2029	Kluver Bucy Syndrome
+2030	Kluver-Bucy syndrome
+2031	Kniest Dysplasia
+2032	Kohler Disease
+2033	Korsakoff's Syndrome
+2034	Kostmann Syndrome
+2035	Krabbe leukodystrophy
+2036	Krause-Kivlin syndrome
+2037	krukenberg Tumor
+2038	Kugelberg Welander Disease
+2039	Kuru
+2040	Kuskokwim disease
+2041	Kwashiorkor
+2042	Kyasanur Forest Disease
+2043	Kyphosis
+2044	Labrador Lung
+2045	Labyrinthitis
+2046	Lactase Deficiency
+2047	Lactation Mastitis
+2048	Lactic Acidosis
+2049	Lactose Intolerance
+2050	Lafora Disease
+2051	Lambert-Eaton Myasthenic Syndrome
+2052	Lamellar Ichthyosis
+2053	Landau-Kleffner syndrome
+2054	Landouzy-Dejerine Muscular Dystrophy
+2055	Langer-Giedion syndrome
+2056	Langerhans cell histiocytosis
+2057	Laparoschisis
+2058	Laron-type dwarfism
+2059	Larsen Syndrome
+2060	LARYNGEAL CANCER
+2061	Laryngeal Carcinoma
+2062	Laryngeal Papillomatosis
+2063	Laryngitis
+2064	Laryngocele
+2065	Laryngomalacia
+2066	Larynx Cancer
+2067	Lassa Fever
+2068	Latent Tuberculosis
+2069	Lateral Epicondylitis
+2070	Latex Allergies
+2071	Lattice Dystrophy
+2072	Laurence-Moon-Bardet-Biedl syndrome
+2073	Lazy Eye
+2074	LCHAD deficiency
+2075	Lead Poisoning
+2076	Leber Optic Atrophy
+2077	Leber's Congenital Amaurosis
+2078	Leber's Disease
+2079	Leber's Hereditary Optic Neuropathy
+2080	Leber's Optic Neuropathy
+2081	Lecithin cholesterol acyltransferase deficiency
+2082	Ledderhose disease
+2083	Left Heart Failure
+2084	Leg Cramps
+2085	Legionellosis
+2086	Leigh disease
+2087	Leiomyoma
+2088	Leiomyosarcoma
+2089	leishmaniasis
+2090	Lemierre's syndrome
+2091	Lennox-Gastaut syndrome
+2092	Lentigo Simplex
+2093	Lentigo, Solar
+2094	Leprechaunism
+2095	leprosy
+2096	Leptospirosis
+2097	Lesch-Nyhan syndrome
+2098	Letterer-Siwe disease
+2099	Leucinosis
+2100	Leukemia
+2101	Leukemia, B-Cell, chronic
+2102	Leukemia, Myeloid
+2103	Leukemia-Tcell-Chronic
+2104	Leukocyte adhesion deficiency syndrome
+2105	Leukodystrophy
+2106	leukodystrophy, Globoid cell
+2107	leukodystrophy, metachromatic
+2108	Leukomalacia
+2109	Leukoplakia
+2110	Levator syndrome
+2111	Lewy Body Dementia
+2112	Lewy Body Disease
+2113	LGCR
+2114	Li-Fraumeni syndrome
+2115	Lice
+2116	Lichen Nitidus
+2117	Lichen planus
+2118	Lichen Planus, Oral
+2119	Lichen Sclerosis
+2120	Lichen Simplex Chronicus
+2121	Lichen spinulosus
+2122	Liddle syndrome
+2123	Ligament Sprain
+2124	Limb-girdle muscular dystrophy
+2125	Lip Cancer
+2126	Lipodystrophy
+2127	Lipoid congenital adrenal hyperplasia
+2128	Lipoma
+2129	Liposarcoma
+2130	Lissencephaly
+2131	Lissencephaly Syndrome Type 1
+2132	Listeria Infection
+2133	Listeriosis
+2134	Lithiasis, Renal
+2135	Liticaphobia
+2136	Liver Abscess
+2137	Liver Cancer
+2138	Liver cirrhosis
+2139	Liver neoplasms
+2140	Liver Spots
+2141	Lobster hand
+2142	Locked-In syndrome
+2143	Lockjaw
+2144	Locomotor Ataxia
+2145	Loeys-Dietz Syndrome
+2146	Loiasis
+2147	Loin pain hematuria syndrome
+2148	Long QT syndrome
+2149	Long QT syndrome type 1
+2150	Long QT syndrome type 2
+2151	Long QT syndrome type 3
+2152	Lordosis
+2153	Lou Gehrig's Disease (ALS)
+2154	Louis Bar Syndrome
+2155	Louping Ill
+2156	Low Blood Sugar
+2157	Low Sex Drive in Women
+2158	Lowe syndrome
+2159	Lower Back Pain
+2160	LSA
+2161	Lues Congenita or Syphilis
+2162	Luiphobia
+2163	Lumbago
+2164	lung Abscess
+2165	Lung Cancer
+2166	Lung Collapse
+2167	Lung Neoplasm
+2168	Lupus
+2169	Lupus Anticoagulant
+2170	Lupus Erythematosus
+2171	Lupus Nephritis
+2172	Lutz-Lewandowsky Epidermodysplasia Verruciformis
+2173	Lyell's Syndrome
+2174	Lygophobia
+2175	Lyme Disease
+2176	Lymphadenitis
+2177	Lymphadenopathy
+2178	Lymphangiectasia
+2179	Lymphangioleiomyomatosis
+2180	Lymphangiomas
+2181	Lymphatic Filariasis
+2182	Lymphedema
+2183	Lymphedema Choriomeningitis
+2184	Lymphedema Distichiasis
+2185	Lymphoblastic Lymphoma
+2186	Lymphocytic Colitis
+2187	Lymphogranuloma Venereum
+2188	Lymphogranuloma Venereum (LGV)
+2189	Lymphoma
+2190	Lymphoma, Large-Cell
+2191	Lymphoma, Large-Cell, Immunoblastic
+2192	Lymphoma, Small Cleaved-Cell, Diffuse
+2193	Lymphoma, Small Cleaved-Cell, Follicular
+2194	Lymphomas In Childhood
+2195	Lymphomatoid Granulomatosis
+2196	Lymphosarcoma
+2197	Lynch Syndrome
+2198	Lysinuric Protein Intolerance
+2199	Lysosomal Alpha-D-Mannosidase Deficiency
+2200	Lysosomal Disorder
+2201	Lyssavirus
+2202	Mac Ardle Disease
+2203	Machado-Joseph Disease
+2204	Macroglobulinemia
+2205	Macroglossia Dominant
+2206	Macular Degeneration
+2207	Macular Degeneration Juvenile
+2208	Macular Degeneration, Age-Related
+2209	Macular Degeneration, Polymorphic
+2210	Macular Hole
+2211	Mad Cow Disease
+2212	Maffucci Syndrome
+2213	Magnesium Deficiency
+2214	Mal De Debarquement
+2215	Malabsorption
+2216	Malakoplakia
+2217	Malaria
+2218	Male Breast Cancer
+2219	Male Hypogonadism
+2220	Male Menopause
+2221	Male Pseudohermaphroditism Due to 17-Beta-Hydroxysteroid Dehydrogenase Deficiency
+2222	Malignant Fibrous Histiocytoma
+2223	Malignant Hyperthermia
+2224	Mallory-Weiss Syndrome
+2225	Malonic Aciduria
+2226	Malonyl-CoA Decarboxylase Deficiency
+2227	Malouf Syndrom
+2228	Malta Fever
+2229	Malveolar Echinococcosis
+2230	Mammary Duct Ectasia
+2231	Manic Depression, Bipolar
+2232	Mannosidosis
+2233	Mansonelliasis
+2234	Mantle Cell Lymphoma
+2235	Map-Dot-Fingerprint Dystrophy
+2236	Maple Syrup Urine Disease
+2237	Marburg Fever
+2238	Marchiafava Bignami Disease
+2239	Marcus Gunn Phenomenon
+2240	Marek Disease
+2241	Marfan Syndrome
+2242	Marinesco-Sjogren Syndrome
+2243	Maroteaux-Lamy Syndrome
+2244	Marshall Syndrome
+2245	Marshall-Smith Syndrome
+2246	Martin Bell Syndrome
+2247	Masculinisation
+2248	Mast Cell disease
+2249	Mastalgia
+2250	Mastitis
+2251	Mastocytosis
+2252	Mastoiditis
+2253	MAT Deficiency
+2254	Maternal Death
+2255	Maturity Onset Diabetes of The Young
+2256	McArdle disease
+2257	McCune-Albright Syndrome
+2258	Measles
+2259	Meckel syndrome
+2260	Medial Tibial Stress Syndrome
+2261	Mediastinal fibrosis
+2262	Mediterranean Anemia
+2263	Mediterranean fever
+2264	Medium-chain Acyl-CoA dehydrogenase deficiency
+2265	Medullary cystic disease
+2266	Medulloblastoma
+2267	Mega-epiphyseal dwarfism
+2268	Megacolon
+2269	Megalencephaly
+2270	Megaloblastic anemia
+2271	Meige syndrome
+2272	Melanoma
+2273	Melanoma, Malignant
+2274	Melanotic Macule, Oral
+2275	MELAS
+2276	Melasma
+2277	Meleda Disease
+2278	Melioidosis
+2279	Melkersson-Rosenthal syndrome
+2280	MEMORY LOSS
+2281	Menarche
+2282	Menetrier's disease
+2283	Meninges Cancer
+2284	Meningioma
+2285	Meningitis
+2286	Meningitis In Children
+2287	Meningitis, meningococcal
+2288	Meningocele
+2289	Meningococcemia
+2290	Meningoencephalocele
+2291	Meningomyelocele
+2292	Meniscus Tear
+2293	Menkes Disease
+2294	Menopause
+2295	Menorrhagia
+2296	Menstrual cramp
+2297	Mental retardation
+2298	Meralgia Parenthetica
+2299	Meralgia Paresthetica (Burning Thigh Pain)
+2300	Merasmus
+2301	Mercury poisoning
+2302	Merkel Cell Cancer
+2303	Mesenteric ischemia
+2304	Mesentric Lymphadenitis
+2305	Mesothelioma
+2306	Metabolic acidosis
+2307	Metabolic Disorder
+2308	Metabolic Syndrome
+2309	Metabolic syndrome X
+2310	Metachondromatosis
+2311	Metachromatic Leukodystrophy
+2312	Metastatic Cancer
+2313	Metatropic Dwarfism
+2314	Methaemoglobinaemia
+2315	Methicillin Resistant Staphylococcus Aureus (MRSA)
+2316	Methylmalonic acidemia
+2317	Methylmalonyl-Coenzyme A Mutase Deficiency
+2318	Mevalonic Aciduria
+2319	Meyenburg-Altherr-Uehlinger Syndrome
+2320	Michelin Tire Baby Syndrome
+2321	Microcephaly
+2322	Microcoria, Congenital
+2323	Microencephaly
+2324	Microphthalmia
+2325	Microscopic Colitis
+2326	Microscopic Hematuria
+2327	Microscopic Polyangiitis
+2328	Microsporidiosis
+2329	Microtia, Meatal Atresia And Conductive Deafness
+2330	Microvillus Inclusion Disease
+2331	Migraine
+2332	Migraine With Aura
+2333	Mikulicz Syndrome
+2334	Mikulicz' Disease
+2335	Mild Cognitive Impairment
+2336	Milia
+2337	Miliaria Rubra
+2338	milk Allergy
+2339	Miller Fisher Syndrome
+2340	Miller-Dieker Syndrome
+2341	Milliaria
+2342	Mineral Deficiency
+2343	Minimal Change Disease
+2344	Minkowski-Chauffard Disease
+2345	Mitochondrial Disease
+2346	Mitochondrial Diseases
+2347	Mitochondrial Trifunctional Protein Deficiency
+2348	Mitral Atresia
+2349	Mitral valve prolapse
+2350	Mitral Valve Prolapse, Familial, Autosomal Dominant
+2351	Mitral valve prolapse, familial, x-linked
+2352	Mitral Valve Regurgitation
+2353	Mitral Valve Stenosis
+2354	Mittelschmerz
+2355	Mixed connective tissue disease
+2356	Mobius syndrome
+2357	Mody Diabetes
+2358	MODY syndrome
+2359	Moebius syndrome
+2360	Moersch Woltmann Syndrome
+2361	Moeschler Clarren syndrome
+2362	Mold Allergy
+2363	Mole, Atypical
+2364	Moles
+2365	Molluscum contagiosum
+2366	Mondini dysplasia
+2367	Mondor's disease
+2368	Monge's disease
+2369	Monilethrix
+2370	Monilla Infection
+2371	Monkeypox
+2372	Monoclonal gammopathy of undetermined significance
+2373	Monomelic Amyotrophy
+2374	Mononeuritis multiplex
+2375	Mononucleosis
+2376	Morning Sickness
+2377	Morphea
+2378	Morquio disease, type A
+2379	Morquio disease, type B
+2380	Morquio syndrome
+2381	Morton's Neuroma
+2382	Morvan Disease
+2383	Mother To Baby Infections
+2384	Motion Sickness
+2385	Motor neurone disease
+2386	Motor sensory neuropathy type 1 cutis congenital
+2387	Mounier-Kuhn syndrome
+2388	Mount reback syndrome
+2389	Mouth Cancer
+2390	Mouth Ulcer
+2391	Moyamoya disease
+2392	MPO deficiency
+2393	MRKH
+2394	Muckle-wells syndrome
+2395	Mucocele, Oral
+2396	Mucocutaneous Lymph Node Syndrome
+2397	Mucopolysaccharidosis
+2398	Mucopolysaccharidosis type 3
+2399	Mucopolysaccharidosis type 4
+2400	Mucopolysaccharidosis type hurler-scheie
+2401	Mucopolysaccharidosis type I
+2402	Mucopolysaccharidosis Type I Scheie syndrome
+2403	Mucopolysaccharidosis type II Hunter syndrome- mild form
+2404	Mucopolysaccharidosis type II Hunter syndrome- severe form
+2405	Mucopolysaccharidosis type IV
+2406	Mucopolysaccharidosis type VI Maroteaux-Lamy - severe, intermediate
+2407	Mucopolysaccharidosis type VII
+2408	Mucormycosis
+2409	Mulibrey nanism syndrome
+2410	Mullerian agenesis
+2411	Multi-Infarct Dementia
+2412	Multifocal ventricular premature beats
+2413	Multiple chemical sensitivity
+2414	Multiple endocrine neoplasia type 1
+2415	Multiple endocrine neoplasia type 2
+2416	Multiple Hereditary exostoses
+2417	Multiple myeloma
+2418	Multiple organ failure
+2419	Multiple Personality Disorder
+2420	Multiple sclerosis
+2421	Multiple system atrophy
+2422	Mumps
+2423	Munchausen syndrome
+2424	Murray Valley Encephalitis
+2425	Muscle Contraction Headache
+2426	Muscle Cramp
+2427	Muscle Dysmorphia
+2428	Muscle Strain
+2429	Muscular dystrophy
+2430	Muscular dystrophy, Duchenne and Becker type
+2431	Muscular dystrophy, facioscapulohumeral
+2432	Myalgic encephalomyelitis
+2433	Myasthenia gravis
+2434	Myasthenia gravis congenital
+2435	Mycetoma
+2436	Mycobacterium Avium Complex
+2437	Mycoplasma Pneumoniae
+2438	Mycoplasmal Pneumonia
+2439	Mycosis Fungoides
+2440	Mycosis Fungoides Lymphoma
+2441	Myelitis
+2442	Myelodysplasia
+2443	Myelodysplastic Syndromes
+2444	Myelofibrosis
+2445	Myeloma
+2446	Myelomeningocele
+2447	Myeloperoxidase Deficiency
+2448	Myiasis
+2449	Myoadenylate Deaminase Deficiency
+2450	Myocardial Infarction
+2451	Myocarditis
+2452	Myoclonus
+2453	Myoclonus Epilepsy
+2454	Myofacial Pain Syndrome
+2455	Myoglobinuria
+2456	Myomas
+2457	Myopathy
+2458	Myopathy, Myotubular
+2459	Myopathy-Centronuclear
+2460	Myopia
+2461	Myopia-Severe
+2462	Myositis
+2463	Myositis Ossificans
+2464	Myositis Ossificans Progressiva
+2465	Myotonic Dystrophy
+2466	Myotubular Myopathy
+2467	Myxedema
+2468	Myxoid Cyst
+2469	Myxozoa
+2470	Naegeli Syndrome
+2471	Naegleria
+2472	Naegleria Infection
+2473	Nail Avulsion
+2474	Nail Fungus
+2475	Nail-Patella Syndrome
+2476	Nappy Rash
+2477	Narcissistic Personality Disorder
+2478	Narcolepsy
+2479	Narcolepsy-Cataplexy
+2480	Nasal Polyps
+2481	Nasopharyngeal Cancer
+2482	Nasopharyngeal Carcinoma
+2483	Naxos Disease
+2484	Nearsightedness
+2485	Neck Cancer
+2486	Neck Pain
+2487	Necrotizing Fasciitis
+2488	Neisseria Meningitidis
+2489	Nelson Syndrome
+2490	Nemaline Myopathy
+2491	Neonatal ALD
+2492	Neonatal Hemochromatosis
+2493	Neonatal Hepatitis
+2494	Neonatal Herpes
+2495	Neonatal Jaundice
+2496	Neonatal Lupus
+2497	Neonatal Myasthenia
+2498	Neonatal Ophthalmitis
+2499	Neonatal Respiratory Distress Syndrome
+2500	Neonatal Tetanus
+2501	Neonatal Transient Jaundice
+2502	Nephritis
+2503	Nephroblastoma
+2504	Nephrocalcinosis
+2505	Nephrogenic Diabetes Insipidus
+2506	Nephropathy
+2507	Nephrosclerosis
+2508	Nephrotic Syndrome
+2509	Nerve Cancer
+2510	Nervous Breakdown
+2511	Nervous System, Paraneoplastic Syndromes
+2512	Neural tube defect, folate-sensitive
+2513	neuralgia
+2514	Neuralgia, Postherpetic
+2515	Neuraminidase Deficiency
+2516	Neurasthenia
+2517	neuritis
+2518	Neuroacanthocytosis
+2519	Neuroblastoma
+2520	neurocysticercosis
+2521	Neurodermatitis
+2522	Neuroendocrime Carcinoma Of The Skin
+2523	Neuroendocrine Cancer
+2524	Neurofibrillary Tangles
+2525	Neurofibroma
+2526	Neurofibromatosis
+2527	Neurofibromatosis Type 2
+2528	Neurogenic Bladder
+2529	Neurogenic bladder
+2530	Neuroleptic Malignant Syndrome
+2531	neuroma
+2532	Neuroma, Plantar
+2533	Neuropathic Pain
+2534	neuropathy
+2535	neurosis
+2536	Neurotoxic Shellfish Poisoning
+2537	Neurotoxicity Syndromes
+2538	Neutropenia
+2539	Nevi
+2540	Nevoid Basal Cell Carcinoma Syndrome
+2541	nevus
+2542	Nevus, Congenital Melanocytic
+2543	Nezelof's Syndrome
+2544	Niacin Overdose
+2545	Nicholas Favre Disease
+2546	Nickel Allergy
+2547	Nicotine, Dependence
+2548	Niemann-Pick C1 Disease
+2549	Niemann-Pick C2 Disease
+2550	Niemann-Pick Disease
+2551	Niemann-Pick Disease Type C
+2552	Night Blindness
+2553	Night Sweats
+2554	Night Terrors
+2555	Nijmegen Breakage Syndrome
+2556	Nil Disease
+2557	Nocardiosis
+2558	Nocturia
+2559	Nocturnal Enuresis
+2560	Nodules, Thyroid
+2561	Noise Induced Deafness
+2562	Noma
+2563	Non-Hodgkin Lymphoma
+2564	Non-ketotic Hyperglycinemia
+2565	Non-Small Cell Lung Cancer
+2566	Non-Specific Urethritis
+2567	Nonalcoholic Fatty Liver Disease
+2568	Nonalcoholic Steatohepatitis
+2569	Nonallergic Rhinitis
+2570	Nonischemic Priapism
+2571	Nontropical Sprue
+2572	Nonulcer Stomach Pain
+2573	Noonan Syndrome
+2574	Normal Pressure Hydrocephalus
+2575	Norovirus Infections
+2576	Norrie Disease
+2577	Nose Foreign Body
+2578	Nose Inflammation
+2579	Nosebleeds
+2580	Nummular Eczema
+2581	Nut Hypersensitivity
+2582	Nyctophobia
+2583	Nymphomania
+2584	Nystagmus
+2585	Obesity
+2586	Obesity In Children
+2587	Obsessive-Compulsive Disorder
+2588	Obstetric Fistula
+2589	Obstipation
+2590	Obstructive Sleep Apnea
+2591	Occipital Horn Syndrome
+2592	Occipital Neuralgia
+2593	Occupational Asthma
+2594	OCD
+2595	Ochoa Syndrome
+2596	Ochronosis
+2597	Ocular Albinism
+2598	Ocular Herpes
+2599	Ocular Histoplasmosis Syndrome
+2600	Ocular Melanoma
+2601	Ocular Motility Disorders
+2602	Ocular Toxoplasmosis
+2603	Oculo Dento Digital Dysplasia
+2604	Oculo-Dento-Digital Syndrome
+2605	Oculocerebrorenal Syndrome
+2606	Oculocutaneous Albinism Type 1
+2607	Oculocutaneous Albinism Type 2
+2608	Oculocutaneous Albinism Type 3
+2609	Oculocutaneous Albinism, Tyrosinase Positive
+2610	Oculomelic Amyoplasia
+2611	Oculopharyngeal Muscular Dystrophy
+2612	Odontoma
+2613	Odontophobia
+2614	Odynophobia
+2615	Oedema
+2616	Ogilvie's Syndrome
+2617	Ohtahara Syndrome
+2618	Oikophobia
+2619	Olfactophobia
+2620	Oligodendroglioma
+2621	Oligohydramnios
+2622	Oligospermia
+2623	Olivopontocerebellar Atrophy
+2624	Ollier Disease
+2625	Omenn Syndrome
+2626	Omsk Hemorrhagic Fever
+2627	Onchocerciasis
+2628	Oncocytoma
+2629	Ondine's Curse
+2630	Oneirophobia
+2631	Onychogryphosis
+2632	Onychomycosis
+2633	Oophoritis
+2634	Open-Angle Glaucoma
+2635	Ophthalmitis
+2636	Opitz Syndrome
+2637	Opportunistic Infections
+2638	Oppositional Defiant Disorder
+2639	Opththalmoplegia
+2640	Optic Atrophy
+2641	Optic Atrophy, Autosomal Dominant
+2642	Optic Disc Drusen
+2643	Optic Neuritis
+2644	Oral And Throat Cancer
+2645	Oral Cancer
+2646	Oral Candidiasis
+2647	Oral Leukoplakia
+2648	Oral Lichen Planus
+2649	Oral Thrush
+2650	Orchitis
+2651	Orf
+2652	Organic Brain Syndrome
+2653	Ornithosis
+2654	Oropharyngeal Cancer
+2655	Orotic Aciduria Hereditary
+2656	Orthorexia Nervosa
+2657	Orthostatic Hypotension
+2658	Orthostatic Intolerance
+2659	Osgood-Schlatter Disease
+2660	Osteitis Deformans
+2661	Osteoarthritis
+2662	Osteochondritis
+2663	Osteochondritis Dissecans
+2664	Osteochondroses
+2665	Osteochrondroma
+2666	Osteogenesis Imperfecta
+2667	Osteogenic Sarcoma
+2668	Osteoglophonic Dwarfism
+2669	Osteoid Osteoma
+2670	Osteoma
+2671	Osteomalacia
+2672	Osteomyelitis
+2673	Osteonecrosis
+2674	Osteopenia
+2675	Osteopetrosis
+2676	Osteophytes
+2677	Osteopoikilosis
+2678	Osteoporosis
+2679	Osteosarcoma
+2680	Osteosclerosis
+2681	Otitis
+2682	Otitis Externa
+2683	Otitis Media
+2684	Otosclerosis
+2685	Otospondylomegaepiphyseal Dysplasia
+2686	Ovarian Cancer
+2687	Ovarian Cysts
+2688	Ovarian Insufficiency
+2689	Overactive Bladder
+2690	Overactive Thyroid
+2691	Overuse Syndrome
+2692	Overwhelming Post-Splenectomy Infection
+2693	Oxyphil Cell Carcinoma
+2694	Pachydermoperiostosis
+2695	Pachygyria
+2696	Pacman Syndrome
+2697	PAD (Peripheral Artery Disease)
+2698	Paget's Disease
+2699	Paget's Disease Of The Breast
+2700	Paget's Disease Type 1
+2701	Painful Bladder Syndrome
+2702	Painful Intercourse
+2703	Painful Limb
+2704	Palate Cancer
+2705	Paleness
+2706	Palindromic Rheumatism
+2707	Pallister Killian Mosaic Syndrome
+2708	Pallister-Hall Syndrome
+2709	Pallister-Killian Syndrome
+2710	Palmoplantar Hyperhidrosis
+2711	Palmoplantar Keratoderma
+2712	Palpitation
+2713	Palsy Cerebral
+2714	Pancreas Divisum
+2715	Pancreatic Cancer
+2716	Pancreatic Cyst
+2717	Pancreatic Diseases
+2718	Pancreatic Islet Cell Neoplasms
+2719	Pancreatic Islet Cell Tumor
+2720	Pancreatitis
+2721	Pancreatoblastoma
+2722	PANDAS
+2723	Panhypopituitarism
+2724	panic Attack
+2725	Panic Attack
+2726	Panic Disorder
+2727	Panniculitis
+2728	Panophobia
+2729	Panthophobia
+2730	Papilledema
+2731	Papilloedema
+2732	Papilloma
+2733	Papular Mucinosis
+2734	Paracoccidioidomycosis
+2735	Paragangliomas
+2736	Parainfluenza
+2737	Paralysis
+2738	Paralytic Ileus
+2739	Paralytic Shellfish Poisoning
+2740	Paramyotonia Congenita
+2741	paranasal Sinus Cancer
+2742	Paraneoplastic Cerebellar Degeneration
+2743	Paraneoplastic Syndromes
+2744	Paraomphalocele
+2745	Paraphilias
+2746	Paraphimosis
+2747	Paraplegia
+2748	Parapsoriasis
+2749	Parasitophobia
+2750	Paratyphoid Fever
+2751	Parcopresis
+2752	Paresthesia
+2753	Parkinson's Disease
+2754	Parkinsonism
+2755	Paronychia
+2756	Parotid Gland Cancer
+2757	Parotitis
+2758	Paroxysmal Cold Hemoglobinuria
+2759	Paroxysmal Nocturnal Hemoglobinuria
+2760	Parry-Romberg Syndrome
+2761	Partial lung collapse
+2762	Parturiphobia
+2763	Paruresis
+2764	Parvovirus Infection
+2765	Pasteurellosis
+2766	Patau Syndrome
+2767	Patellar Tendinitis
+2768	Patellofemoral Pain Syndrome
+2769	Patellofemoral Syndrome
+2770	Patent Ductus Arteriosus
+2771	Patent Foramen Ovale
+2772	Pathological Gambling
+2773	Pathological Stealing
+2774	Patterson Pseudoleprechaunism Syndrome
+2775	PCC Deficiency
+2776	Peanut Allergy
+2777	Peanut Hypersensitivity
+2778	Pectus Excavatum
+2779	Pediatric T-Cell Leukemia
+2780	Pediculosis
+2781	Pediculosis Capitis
+2782	Pelizaeus-Merzbacher Disease
+2783	Pellagra
+2784	Pelvic Inflammatory Disease
+2785	Pelvic Lipomatosis
+2786	Pemphigus
+2787	Pemphigus Foliaceus
+2788	Pemphigus Vulgaris
+2789	Pendred Syndrome
+2790	Penicillin Allergy
+2791	Penile Candidiasis
+2792	Penis Cancer
+2793	Pentalogy Of Cantrell
+2794	Pentosuria
+2795	Peptic Ulcer
+2796	Periarteritis Nodosa
+2797	Pericarditis
+2798	Perilymph Fistula
+2799	Perilymphatic Fistula
+2800	Perinatal Infections
+2801	Periodic Fever, Aphthous Stomatitis, Pharyngitis And Adenitis
+2802	Periodic Paralysis
+2803	Periodontal Disease Or Periodontitis
+2804	Peripartum Cardiomyopathy
+2805	Peripheral Neuropathy
+2806	Peripheral Vascular Disease
+2807	Peritoneal Mesothelioma
+2808	Peritoneum Cancer
+2809	Peritonitis
+2810	Periventricular Leukomalacia
+2811	Pernicious Anemia
+2812	Perniosis
+2813	Peroneal Muscular Atrophy
+2814	Persistent Cough
+2815	Persistent Sexual Arousal Syndrome
+2816	Persistent Truncus Arteriosus
+2817	Pertussis
+2818	Pervasive Disintegrative Disorder
+2819	Pes Planus
+2820	pet Allergy
+2821	Petit Mal Seizure
+2822	Peutz-Jeghers Syndrome
+2823	Peyronie Disease
+2824	Pfeiffer Syndrome
+2825	Phaeohyphomycosis
+2826	Phantom Pain
+2827	Pharmacophobia
+2828	Pharyngitis
+2829	Phenylketonuria
+2830	Pheochromocytoma
+2831	Philippine Hemorrhagic Fever
+2832	Phimosis
+2833	Phlebitis
+2834	Phocomelia Syndrome
+2835	Photic Sneezing
+2836	Photosensitive Epilepsy
+2837	Photosensitivity
+2838	Pica
+2839	Pick's Disease
+2840	Pickardt Syndrome
+2841	Pickwickian Syndrome
+2842	Piebaldism
+2843	Pierre Robin Syndrome
+2844	Pigmented Villonodular Synovitis
+2845	Pilar Cyst
+2846	Piles
+2847	Pili Multigemini
+2848	Pilonidal cyst
+2849	Pimples
+2850	Pinched Nerve
+2851	Pinealoma
+2852	Pinta
+2853	Pinworm Infection
+2854	Pipecolic Acidemia
+2855	Pituitary Cancer
+2856	Pituitary Insufficiency
+2857	Pituitary Tumors
+2858	Pityriasis Alba
+2859	Pityriasis Lichenoides Chronica
+2860	Pityriasis Lichenoides Et Varioliformis Acuta
+2861	Pityriasis Rosea
+2862	Pityriasis Rubra Pilaris
+2863	Pityriasis Versicolor
+2864	Placenta Previa
+2865	Placental Abruption
+2866	Plague
+2867	Plantar Fasciitis
+2868	Plantar Warts
+2869	Platelet Disorder
+2870	Pleural Cancer
+2871	Pleural Effusion
+2872	Pleural Mesothelioma
+2873	Pleurisy
+2874	Pleuritis
+2875	Plica Syndrome
+2876	Plummer-Vinson Syndrome
+2877	Pneumoconiosis
+2878	Pneumocystis
+2879	Pneumocystis Jiroveci Pneumonia
+2880	Pneumonia, Eosinophilic
+2881	Pneumonoultramicroscopicsilicovolcanoconiosis
+2882	Pneumothorax
+2883	POEMS Syndrome
+2884	Poikiloderma Congenita
+2885	Poikiloderma of Civatte
+2886	Poison Ivy Rash
+2887	Poland Syndrome
+2888	Poliomyelitis (Polio)
+2889	Pollen Allergy
+2890	Polyarteritis Nodosa
+2891	Polyarthritis
+2892	Polychondritis
+2893	Polycystic Kidney Disease
+2894	Polycystic Ovary Syndrome
+2895	Polycythemia
+2896	Polycythemia Vera
+2897	Polydactyly
+2898	Polyendocrine Deficiency
+2899	Polymorphous Light Eruption
+2900	Polymorphous Low-Grade Adenocarcinoma
+2901	Polymyalgia Rheumatica
+2902	Polymyositis
+2903	Polyneuritis
+2904	Polyostotic Fibrous Dysplasia
+2905	Polyposis, Hamartomatous Intestinal
+2906	Polyps, Stomach
+2907	Polyps, Uterine
+2908	Pompe's Disease
+2909	Pompholyx
+2910	pontiac Fever
+2911	Pontiac Fever
+2912	Poor Color Vision
+2913	Popliteal Cyst
+2914	Popliteal Pterygium Syndrome
+2915	Popliteal Pterygium Syndrome, Lethal Type
+2916	porencephaly
+2917	porphyria
+2918	Porphyria Cutanea Tarda
+2919	Porphyria Cutanea Tarda, Familial Type
+2920	Porphyria Cutanea Tarda, Sporadic Type
+2921	Porphyria, Acute Intermittent
+2922	Portal Hypertension
+2923	Portal Vein Thrombosis
+2924	Post Polio Syndrome
+2925	Post Traumatic Stress Disorder (PTSD)
+2926	Post-Concussion Syndrome
+2927	Post-Nasal Drip
+2928	Post-Polio Syndrome
+2929	Post-Traumatic Epilepsy
+2930	Post-Vietnam Syndrome
+2931	Posterior Urethral Valves
+2932	Posterior Uveitis
+2933	Postpartum Depression
+2934	Postpartum Hemorrage
+2935	Postpartum Psychosis
+2936	Postural Hypotension
+2937	Potassium Defficiency
+2938	Potter's Syndrome
+2939	Poxviridae Disease
+2940	Prader-Willi Syndrome
+2941	Prebycusis
+2942	Precocious Puberty
+2943	Preeclampsia
+2944	Pregnancy Toxemia
+2945	Premature Aging
+2946	Premature Ovarian Failure
+2947	Premature Ventricular Contractions
+2948	Premenstrual Dysphoric Disorder
+2949	Premenstrual Syndrome
+2950	Presbycusis
+2951	Presbyopia
+2952	Priapism
+2953	prickly Heat
+2954	Primary Alveolar Hypoventilation
+2955	Primary Amenorrhea
+2956	Primary Biliary Cirrhosis
+2957	Primary Ciliary Dyskinesia
+2958	Primary Hyperoxaluria
+2959	Primary Hyperparathyroidism
+2960	Primary Immunodeficiency
+2961	Primary Lateral Sclerosis
+2962	Primary Ovarian Insufficiency
+2963	Primary Polycythemia
+2964	Primary Progressive Aphasia
+2965	Primary Pulmonary Hypertension
+2966	Primary Sclerosing Cholangitis
+2967	Primordial Microcephalic Dwarfism Crachami Type
+2968	Prinzmetal's Variant Angina
+2969	processing Disorder
+2970	Proconvertin Deficiency, Congenital
+2971	Proctalgia
+2972	Proctitis
+2973	Progeria
+2974	Progressive External Ophthalmoplegia
+2975	Progressive Multifocal Encephalopathy
+2976	Progressive Spinal Muscular Atrophy
+2977	Progressive Supranuclear Palsy
+2978	Prolactinoma
+2979	Prolapsed Bladder
+2980	Prolapsed Uterus
+2981	Prolidase Deficiency
+2982	Prolymphocytic Leukemia
+2983	Properdin Deficiency
+2984	Prosopagnosia
+2985	Prostate Cancer
+2986	Prostate Cancer, Familial
+2987	Prostate Gland Enlargement
+2988	Prostate Inflammation
+2989	Prostatitis
+2990	Protanopia
+2991	Protein C Deficiency
+2992	Protein S Deficiency
+2993	Protein-Energy Malnutrition
+2994	Proteinuria
+2995	Proteus Syndrome
+2996	Proximal Myotonic Myopathy
+2997	Prune Belly Syndrome
+2998	Prurigo Nodularis
+2999	pruritus
+3000	pruritus Ani
+3001	Pseudoachondroplasia
+3002	Pseudocholinesterase Deficiency
+3003	Pseudofolliculitis Barbae
+3004	Pseudogout
+3005	Pseudohermaphroditism
+3006	Pseudohypoaldosteronism
+3007	Pseudohypoparathyroidism
+3008	Pseudomembranous Colitis
+3009	Pseudomonas Stutzeri Infection
+3010	Pseudomotor Cerebri
+3011	Pseudomyxoma Peritonei
+3012	Pseudopapilledema
+3013	Pseudovaginal Perineoscrotal Hypospadias
+3014	Pseudoxanthoma Elasticum
+3015	Psittacosis
+3016	Psoriasis
+3017	Psoriatic Arthritis
+3018	Psoriatic Rheumatism
+3019	psychogenic Polydipsia
+3020	psychophysiologic Disorders
+3021	psychosis
+3022	Pterygium Of The Conjunctiva
+3023	Ptomaine Food Poisoning
+3024	Ptosis
+3025	Pubic Crabs
+3026	Pubic Lice
+3027	Puerperal Fever
+3028	Pulmonary Alveolar Proteinosis
+3029	Pulmonary Anthrax
+3030	Pulmonary Edema
+3031	Pulmonary Edema Of Mountaineers
+3032	Pulmonary Embolism
+3033	Pulmonary Fibrosis Granuloma
+3034	Pulmonary Heart Disease
+3035	Pulmonary Hypertension
+3036	Pulmonary Incompetence
+3037	Pulmonary Sequestration
+3038	Pulmonary Valve Stenosis
+3039	Pulmonic Stenosis, Cafe Au Lait Spots
+3040	Pulseless Disease
+3041	Pure Red Cell Aplasia
+3042	Purine Nucleoside Phosphorylase Deficiency
+3043	Purpura
+3044	Purpura Simplex
+3045	Purpura, Schoenlein-Henoch
+3046	Purpura, Thrombotic Thrombocytopenic
+3047	PVL S. Aureus
+3048	Pyaemia
+3049	Pyelonephritis
+3050	Pyloric Stenosis
+3051	Pyoderma Gangrenosum
+3052	Pyomyositis
+3053	Pyridoxine Deficiency
+3054	Pyromania
+3055	Pyrophobia
+3056	Pyropokilocytosis
+3057	Pyrosis
+3058	Pyruvate Dehydrogenase Complex Deficiency
+3059	Pyruvate Kinase Deficiency
+3060	Q Fever
+3061	Quackery Arthritis
+3062	Quadriplegia
+3063	Quantal Squander Syndrome
+3064	Queensland Tick Typhus
+3065	Query Fever
+3066	Quinsy
+3067	Rabbit Fever
+3068	Rabies
+3069	Rabson-Mendenhall Syndrome
+3070	Radiation Exposure
+3071	Radiation Sickness
+3072	Radiophobia
+3073	Radon Poisoning
+3074	Raine Syndrome
+3075	Ramsay Hunt Paralysis Syndrome
+3076	Rapadilino Syndrome
+3077	Rapid Gastric Emptying
+3078	Rasmussen's Encephalitis
+3079	Rat-Bite Fever
+3080	Raynaud's Disease Phenomenon
+3081	Razor Bumps
+3082	Reactive Arthritis
+3083	Reactive Attachment Disorder
+3084	Reactive Hypoglycemia
+3085	Rebound Headache
+3086	Rectal Abscess
+3087	Rectal Cancer
+3088	Rectal Inflammation
+3089	Rectal Itching
+3090	Rectal Neoplasm
+3091	Rectal Prolapse
+3092	Rectal Ulcer
+3093	Rectocele
+3094	Rectosigmoid Neoplasm
+3095	Rectum Cancer
+3096	Red Eye
+3097	Red Measles
+3098	Reflex Sympathetic Dystrophy Syndrome
+3099	Reflux Esophagitis
+3100	Refractive Errors
+3101	Refsum Disease
+3102	Regional Enteritis
+3103	Reiter's Syndrome
+3104	Reiters Arthritis
+3105	Relapsing Fever
+3106	Relapsing Polychondritis
+3107	Renal Agenesis
+3108	Renal Artery Stenosis
+3109	Renal Calculi
+3110	Renal Cancer
+3111	Renal Carbuncle
+3112	Renal Cell Carcinoma
+3113	Renal Colic
+3114	Renal Dysplasia Mesomelia Radiohumeral Fusion
+3115	Renal Glycosuria
+3116	Renal Osteodystrophy
+3117	Renal Tuberculosis
+3118	Renal Tubular Acidosis
+3119	Repetitive Strain Injury
+3120	Respiratory Acidosis
+3121	Respiratory Diphtheria
+3122	Respiratory Failure
+3123	Respiratory Infection
+3124	Respiratory Syncytial Virus
+3125	Respiratory System Cancer
+3126	Restless Legs Syndrome
+3127	Restrictive cardiomyopathy
+3128	Reticuloendotheliosis
+3129	Retinal Degeneration
+3130	Retinal Detachment
+3131	Retinitis Pigmentosa
+3132	Retinoblastoma
+3133	Retinoschisis
+3134	Retractile Testicle
+3135	Retrograde Ejaculation
+3136	Retrolental Fibroplasia
+3137	Retroperitoneal Fibrosis
+3138	Rett Syndrome
+3139	Revesz Debuse Syndrome
+3140	Reye's Syndrome
+3141	Reynolds Syndrome
+3142	Rh Disease
+3143	Rhabdoid Tumor
+3144	Rhabdomyolysis
+3145	Rhabdomyosarcoma
+3146	Rhabdomyosarcoma, Embryonal
+3147	Rhesus Isoimmunisation
+3148	Rheumatic Fever
+3149	Rheumatic Heart Disease
+3150	Rheumatism
+3151	Rheumatoid Arthritis
+3152	Rheumatoid Spondylitis
+3153	Rhinitis
+3154	Rhinitis, Vasomotor
+3155	Rhinophyma
+3156	Rhupus
+3157	Rib Gap Syndrome
+3158	Rib Inflammation
+3159	Riboflavin Deficiency
+3160	Richter Syndrome
+3161	Ricin Poisoning
+3162	Rickets
+3163	Rickettsial Disease
+3164	Rickettsialpox
+3165	Rickettsiosis
+3166	Rift Valley Fever
+3167	Right Heart Failure
+3168	Riley-Day Syndrome
+3169	Ringworm
+3170	Ringworm Of The Body
+3171	Ringworm Of The Scalp
+3172	River Blindness
+3173	Robinow Syndrome
+3174	Rocky Mountain Spotted fever
+3175	Rod Myopathy
+3176	Rodent Ulcer
+3177	Romano-Ward Syndrome
+3178	Rosacea
+3179	Rosai-Dorfman Disease
+3180	Roseola Infantum
+3181	Ross River Virus Infection
+3182	Rotator Cuff Injury
+3183	Rotavirus
+3184	Rotor Syndrome
+3185	Rubella
+3186	Rubella, Congenital
+3187	Rubeola
+3188	Rubinstein-Taybi Syndrome (Gene Promoter Involvement)
+3189	Rumination Disorder
+3190	Runner's Knee
+3191	Ruptured Spleen
+3192	Russell Silver Syndrome
+3193	Sabinas Brittle Hair Syndrome
+3194	Saccharopinuria
+3195	Sacral agenesis
+3196	Sacral Dimple
+3197	Sacroiliitis
+3198	Saethre-Chotzen Syndrome
+3199	Sakati Syndrome
+3200	Salivary Gland Cancer
+3201	Salla Disease
+3202	Salmonella Food Poisoning
+3203	Salmonellosis (Salmonella Infections)
+3204	Salpingitis
+3205	San Joaquin Valley Fever
+3206	Sandfly Fever
+3207	Sandhoff Disease
+3208	Sanfilippo Syndrome
+3209	Santavuori Disease
+3210	SAPHO Syndrome
+3211	Sarcoidosis
+3212	Sarcoidosis, Pulmonary
+3213	Sarcoma, Bone Cancer
+3214	Sarcoma, Granulocytic
+3215	Sarcosinemia
+3216	Satoyoshi Syndrome
+3217	Savant Syndrome
+3218	Say Meyer Syndrome
+3219	Scabies
+3220	Scabies In Children
+3221	SCAD Deficiency
+3222	Scalded Mouth Syndrome
+3223	SCARF Syndrome
+3224	Scarlatina
+3225	Scarlet Fever
+3226	Schamberg's Disease
+3227	Scheie Syndrome
+3228	Scheuermann's Disease
+3229	Schilder's Disease
+3230	Schinzel-Giedion Syndrome
+3231	Schistosomiasis
+3232	Schizencephaly
+3233	Schizoaffective Disorder
+3234	Schizophrenia
+3235	Schizophrenia, Genetic Types
+3236	Schmidt Syndrome
+3237	Schmitt Gillenwater Kelly Syndrome
+3238	School Phobia
+3239	Schwannoma, Malignant
+3240	Schwannomatosis
+3241	Sciatica
+3242	Scimitar Syndrome
+3243	Scleritis
+3244	Sclerodactyly
+3245	Scleroderma
+3246	Scleroderma, Limited
+3247	Sclerotylosis
+3248	Scoliosis
+3249	Scoliosis With Unilateral Unsegmented Bar
+3250	Scombrotoxic Fish Poisoning
+3251	Scrapie
+3252	Scratch Dermatitis
+3253	Scrotal Masses
+3254	Scrub Typhus
+3255	Scurvy
+3256	Sea Sickness
+3257	Season Affective Disorder
+3258	Seasonal Affective Disorder
+3259	Sebaceous Cysts
+3260	Seborrheic Dermatitis
+3261	Seckel Syndrome
+3262	Seizure, Temporal Lobe
+3263	Semantic Pragmatic Disorder
+3264	Senile Purpura
+3265	Sensorineural Hearing Loss
+3266	Sensory Integration Dysfunction
+3267	Sensory Neuropathy
+3268	Sensory Neuropathy Type I
+3269	Separation Anxiety
+3270	Sepsis
+3271	Septic Arthritis
+3272	Septic Shock
+3273	Septicaemia
+3274	Septicemia
+3275	Septo-optic Dysplasia
+3276	Serious Digitalis Intoxication
+3277	Seronegative Spondyloarthropathy
+3278	Serotonin Syndrome
+3279	Serum Sickness
+3280	Severe Acute Respiratory Syndrome
+3281	Severe Acute Respiratory Syndrome (SARS)
+3282	Severe Brain Injury
+3283	Severe Combined Immunodeficiency
+3284	Sexual Dysfunction
+3285	Sexual Headache
+3286	Sexual Neuropathy
+3287	Sezary SYndrome
+3288	Sezary's lymphoma
+3289	Shaken Baby Syndrome
+3290	Shapiro Syndrome
+3291	Sharp Syndrome
+3292	Sheehan Syndrome
+3293	Shellfish allergy
+3294	Shigellosis
+3295	Shin Splints
+3296	Shingles
+3297	Shock
+3298	Short Bowel Syndrome
+3299	Short QT Syndrome
+3300	Short Rib-Polydactyly Syndrome
+3301	Short Stature
+3302	Shoulder Arthritis
+3303	Shoulder Bursitis
+3304	Shprintzen Syndrome
+3305	Shulman-Upshaw Syndrome
+3306	Shwachman Syndrome
+3307	Shwachman-Diamond Syndrome
+3308	Shwartzman Phenomenon
+3309	Shy-Drager Syndrome
+3310	Sialadenitis
+3311	Sialidosis
+3312	Sicca Syndrome
+3313	Sick Building Syndrome
+3314	Sick Sinus Syndrome
+3315	Sickle Cell Anemia
+3316	Sideroblastic Anemia, Autosomal
+3317	Siderosis
+3318	Silent Sinus Syndrome
+3319	Silent Stroke
+3320	Silicosis
+3321	Silver-Russel dwarfism
+3322	Silvery Hair Syndrome
+3323	Simpson-Golabi-Behmel Syndrome
+3324	Sin Nombre Virus Infection
+3325	Singultus
+3326	Sino-Auricular Heart block
+3327	Sinus Cancer
+3328	Sinus Infection
+3329	Sinus Node Disease
+3330	Sipple Syndrome
+3331	Sirenomelia
+3332	Sitophobia
+3333	sitosterolemia
+3334	Situs Inversus, X-linked
+3335	Sixth Disease
+3336	Sjogren's Syndrome
+3337	Skeletal Dysplasia
+3338	Skin Cancer
+3339	Skin Tags
+3340	Slapped Cheek Disease
+3341	Sleep Apnea
+3342	Sleep Paralysis
+3343	Sleepwalking
+3344	Slipped Disc
+3345	Sly Syndrome
+3346	Small Cell Lung Cancer
+3347	Small Intestinal Bacterial Overgrowth
+3348	Small Intestine Cancer
+3349	Smallpox
+3350	Smith-Lemli-Opitz Syndrome
+3351	Smith-Magenis Syndrome
+3352	Smith-Theiler-Schachenmann Syndrome
+3353	Sneddon Syndrome
+3354	Snoring
+3355	Social Phobia
+3356	Sociophobia
+3357	Soft Tissue Sarcoma
+3358	Solar keratosis
+3359	Solar Lentigines
+3360	Solitary Rectal Ulcer Syndrome
+3361	Somatostatinoma
+3362	Sore Throat
+3363	Soto's Syndrome
+3364	Soy Allergy
+3365	Sparganosis
+3366	Spasmodic Dysphonia
+3367	Spasmodic Torticollis
+3368	Spasticity
+3369	Spermatic Cyst
+3370	Spermatocele
+3371	Spermatogenesis Arrest
+3372	Spherocytosis
+3373	Sphingolipidosis
+3374	Spider Angioma
+3375	Spider Veins
+3376	Spielmeyer-Vogt Disease
+3377	Spina Bifida
+3378	Spinal Cord Injury
+3379	Spinal Cord Neoplasm
+3380	Spinal Muscular Atrophy
+3381	Spinal Shock
+3382	Spinal Stenosis
+3383	Spinal Tumor
+3384	Spinocerebellar Ataxia
+3385	Spirochetes Disease
+3386	Splenic-Flexure Syndrome
+3387	Splenomegaly
+3388	Spondylarthritis
+3389	Spondylarthropathies
+3390	Spondylarthropathy
+3391	Spondylitis
+3392	Spondyloepiphyseal Dysplasia
+3393	Spondyloepiphyseal Dysplasia, Congenital Type
+3394	Spondylometaphyseal Dysplasia
+3395	Spongiform Encephalopathy
+3396	sporotrichosis
+3397	Spotted Fever
+3398	Sprengel Deformity
+3399	Squamous Cell Carcinoma
+3400	Squints
+3401	St. Anthony's Fire
+3402	St. Louis Encephalitis
+3403	Stable Angina
+3404	Stagnant Syndrome
+3405	Stammering
+3406	Staph Infection
+3407	Staph Infections
+3408	Staphylococcal Infection
+3409	Staphylococcus Aureus Food Poisoning
+3410	Stargardt's Disease
+3411	Stari
+3412	Stasis Syndrome
+3413	Steatocystoma Multiplex
+3414	Steatorrhea
+3415	Steatosis
+3416	Steele-richardson-olszewski Syndrome
+3417	Stein-Leventhal Syndrome
+3418	Stenosing Tenosynovitis
+3419	Stevens-Johnson Syndrome
+3420	Stickler Syndrome
+3421	Stickler Syndrome Type 2
+3422	Stickler Syndrome Type 3
+3423	Stickler Syndrome, Type I
+3424	Sticky Eyes
+3425	Stiff Man Syndrome
+3426	Stiff-Person syndrome
+3427	Still's Disease
+3428	Stockholm Syndrome
+3429	Stokes-Adams Attack
+3430	Stomach Cancer
+3431	Stomach Flu
+3432	Stomach Lining Inflammation
+3433	Stomatitis
+3434	Stomatodynia
+3435	Strabismus
+3436	Strep Throat
+3437	Streptococcus Group B
+3438	Stretch Marks
+3439	Striae
+3440	Stroke
+3441	Strongyloidiasis
+3442	Strumpell-lorrain Disease
+3443	Sturge-Weber Syndrome
+3444	Stuttering
+3445	Sty
+3446	Subacute Sclerosing Panencephalitis
+3447	Subconjunctival Hemorrhage
+3448	Subdural Hematoma
+3449	Subfertility
+3450	Succinic Semialdehyde Dehydrogenase Deficiency
+3451	Sucrase-Isomaltase Deficiency
+3452	Sudden Adult Death Syndrome
+3453	Sudden Arrhythmia Death Syndrome (SADS)
+3454	Sudden Cardiac Arrest
+3455	Sudden Cardiac Death
+3456	Sudden Infant Death Syndrome
+3457	Sudeck's Atrophy
+3458	Sugarman Syndrome
+3459	Sulfite Oxidase Deficiency
+3460	Sun Stroke
+3461	Sunburn
+3462	Superficial Thrombophlebitis
+3463	Supranuclear Ocular Palsy
+3464	Supraspinatus Tendonitis
+3465	Surfers Nodules
+3466	Suriphobia
+3467	Susac's Syndrome
+3468	Swallowing Difficulties
+3469	Sweaty Sock Syndrome
+3470	Sweeley-Klionsky Disease
+3471	Sweet's Syndrome
+3472	Swift Disease
+3473	Swimmer's Ear
+3474	Swimmer's Itch
+3475	Swimming Pool Granuloma
+3476	Swollen Lymph Nodes
+3477	Swyer Syndrome
+3478	Sydenham's Chorea
+3479	Sympathetic Ophtalmitis
+3480	Synaesthesia
+3481	Syncope
+3482	Syndactyly
+3483	Syndrome Of Inappropriate Antidiuretic Hormone
+3484	Syndrome x
+3485	Synesthesia
+3486	Synostosis
+3487	Synovial Osteochondromatosis
+3488	Synovial Sarcoma
+3489	Synovitis
+3490	Syphilis
+3491	Syringobulbia
+3492	Syringomas
+3493	Syringomyelia
+3494	Systematic Sclerosis
+3495	Systemic Carnitine Deficiency
+3496	Systemic Lupus Erythematosus
+3497	Systemic Mastocytosis
+3498	T-cell Lymphoma
+3499	T-Lymphocytopenia
+3500	Tabes Dorsalis
+3501	Tachycardia
+3502	Tachypnea
+3503	Taeniasis
+3504	Tailbone Pain
+3505	Takayasu Arteritis
+3506	Takayasu's Arteritis
+3507	Talipes
+3508	Talipes Equinovarus
+3509	Tangier Disease
+3510	Tapeworm Infection
+3511	TAR Syndrome
+3512	Tardive Dyskinesia
+3513	Tarsal Tunnel Syndrome
+3514	Taurodontism
+3515	Tay Syndrome Ichthyosis
+3516	Tay-Sachs Disease
+3517	Teeth grinding
+3518	Telangiectasia
+3519	Telangiectasia, Hereditary Hemorrhagic
+3520	Temporal Arteritis
+3521	Temporal Epilepsy, Familial
+3522	Temporal Lobe Seizure
+3523	Temporo-Mandibular Joint Syndrome (TMJ)
+3524	Temporomandibular Joint Dysfunction
+3525	TEN
+3526	Tendinitis
+3527	Tennis Elbow
+3528	Teratomas
+3529	Terminal Ileitis
+3530	Testes Neoplasm
+3531	Testicle, Undescended
+3532	Testicular Cancer
+3533	Testicular Torsion
+3534	Testosterone Deficiency
+3535	Tetanus
+3536	Tetany
+3537	Tethered Spinal Cord
+3538	Tethered Spinal Cord Syndrome
+3539	Tetralogy Of Fallot
+3540	Tetrapelgia
+3541	Tetraploidy _
+3542	Thalassemia
+3543	Thalassemia Major
+3544	Thalassemia Minor
+3545	Thallium Poisoning
+3546	Thanataphobia
+3547	Thiamin Deficiency
+3548	Thoracic Outlet Syndrome
+3549	Throat Cancer
+3550	Thrombasthenia
+3551	Thromboangiitis Obliterans
+3552	Thrombocytopathy
+3553	Thrombocytopenia
+3554	Thrombocytopenia Absent Radius (TAR) Syndrome
+3555	Thrombocytopenia Absent Radius Syndrome
+3556	Thrombocytopenia Purpura
+3557	Thrombocytopenic Purpura, Autoimmune
+3558	Thrombocytosis
+3559	Thromboembolism
+3560	Thrombophlebitis
+3561	Thrombosis
+3562	Thrombotic Microangiopathy, Familial
+3563	Thrush
+3564	Thymic Carcinoma
+3565	Thymoma
+3566	Thymus Cancer
+3567	Thyroglossal Tract Cyst
+3568	Thyroid Cancer
+3569	Thyroid Carcinoma, Follicular
+3570	Thyroid Carcinoma, Papillary
+3571	Thyroiditis
+3572	Tic Douleureux
+3573	Tic Douloureux
+3574	Tick Bites
+3575	Tick Paralysis
+3576	Tick-borne Encephalitis
+3577	Tietz Syndrome
+3578	Tietze Syndrome
+3579	Tinea
+3580	Tinea Barbae
+3581	Tinea Capitis
+3582	Tinea Versicolor
+3583	Tinnitus
+3584	Tiredness In Children
+3585	Todd's Paralysis
+3586	Togaviridae Disease
+3587	Tolosa-Hunt Syndrome
+3588	Tongue Neoplasm
+3589	Tonic-clonic Seizure
+3590	Tonsillitis
+3591	Tooth Decay In Children
+3592	Toothache
+3593	TORCH Syndrome
+3594	Torn Meniscus
+3595	Torticollis
+3596	Torulopsis
+3597	Touraine-Solente-Gole Syndrome
+3598	Tourette Syndrome
+3599	Townes-Brocks Syndrome
+3600	Toxemia
+3601	Toxic Hepatitis
+3602	Toxic Shock Syndrome
+3603	Toxocariasis
+3604	Toxoplasmosis
+3605	Toxoplasmosis Songenital
+3606	Tracheoesophageal Fistula
+3607	Trachoma
+3608	Transcutaneous Electrical Nerve Stimulation
+3609	Transient Erythroblastopenia Of Childhood
+3610	Transient Global Amnesia
+3611	Transient Ischemic Attack
+3612	Transitional Cell Carcinoma
+3613	Translocation
+3614	Transposition Of The Great Vessels
+3615	Transverse Myelitis
+3616	Travel Sickness
+3617	Travellers' Diarrhoea
+3618	Treacher Collins Syndrome
+3619	Tremor Hereditary Essential
+3620	Trench Mouth
+3621	Treponema Infection
+3622	Treponema Pallidum
+3623	Trichinellosis
+3624	Trichinosis
+3625	Trichomoniasis
+3626	Trichothiodystrophy
+3627	Trichotillomania
+3628	Tricuspid Atresia
+3629	Trigeminal neuralgia
+3630	Trigger Finger
+3631	Trigger Thumb
+3632	Trimethylaminuria
+3633	Triple A Syndrome
+3634	Triple X Syndrome
+3635	Triploid Syndrome
+3636	Triploidy
+3637	Trisomy
+3638	Trisomy 21 Syndrome
+3639	Trophoblastic Neoplasms
+3640	Trophoblastic Tumor
+3641	Tropical Sprue
+3642	Trypanophobia
+3643	Trypanosomiasis-East African
+3644	Trypanosomiasis-West African
+3645	Tuberculosis
+3646	Tuberculosis meningitis
+3647	Tuberculosis-Pulmonary
+3648	Tuberous Sclerosis
+3649	Tularemia
+3650	Tularemia (deliberate release)
+3651	Tummy Ache
+3652	Tungiasis
+3653	Turcot Syndrome
+3654	Turner Syndrome
+3655	Twin-To-Twin Transfusion Syndrome
+3656	Tylenol liver Damage
+3657	Typhoid
+3658	Typhus
+3659	Tyrosinemia
+3660	UDP-Galactose-4-Epimerase Deficiency
+3661	UHL Anomaly
+3662	Ulbright Hodes Syndrome
+3663	Ulcer, Duodenal
+3664	Ulcer, Gastric
+3665	Ulcer, Pressure
+3666	Ulcer, Stomach
+3667	Ulcerative Colitis
+3668	Ulerythema Ophryogenesis
+3669	Umbilical Cord Ulceration And Intestinal Atresia
+3670	Uncombable Hair Syndrome
+3671	Uniparental Disomy
+3672	Upington Disease
+3673	Upper Respiratory Tract Infections
+3674	Urachal Cancer
+3675	Urachal Cyst
+3676	Urban Rogers Meyer Syndrome
+3677	Urea Cycle Disorder
+3678	Uremia
+3679	Ureter Cancer
+3680	Urethral Stricture
+3681	Urethral Syndrome
+3682	Urethritis
+3683	Urge Incontinence
+3684	Uridine Monophosphate Synthetase Disease
+3685	Urinary Calculi
+3686	Urinary Incontinence
+3687	Urinary Incontinence In Children
+3688	Urinary Retention
+3689	Urinary System Cancer
+3690	Urinary Tract Infection
+3691	Urinary Tract Neoplasm
+3692	Urine Color
+3693	Urine Retention
+3694	Urocanase Deficiency
+3695	Urogenital Adysplasia
+3696	Urticaria
+3697	Urticaria Pigmentosa
+3698	Urticaria-Deafness-Amyloidosis
+3699	Usher Syndrome
+3700	Usher Syndrome 1C
+3701	Uterine Cancer
+3702	Uterine Fibroids
+3703	Uterine Growths
+3704	Uterine Prolapse
+3705	Uterus Didelphys
+3706	Uveitis
+3707	Uveitis-Anterior
+3708	Uveitis-Posterior
+3709	VACTERL Association
+3710	Vagabond's Disease
+3711	Vagina Cancer
+3712	Vaginal Atrophy
+3713	Vaginal Candidiasis
+3714	Vaginal Discharge
+3715	Vaginal Dryness
+3716	Vaginal Fistula
+3717	Vaginismus
+3718	Vaginitis
+3719	Valinemia
+3720	Valley Fever
+3721	Van Der Woude Syndrome
+3722	Van Goethem Syndrome
+3723	Vancomycin-Resistant Enterococcus
+3724	Varadi Papp Syndrome
+3725	Varicella Virus Antenatal Infection
+3726	Varicella Zoster
+3727	Varicella-Zoster Virus
+3728	Varicocele
+3729	Varicose Veins
+3730	Variegate Porphyria
+3731	Variola
+3732	Vas Deferens
+3733	Vascular Dementia
+3734	Vascular Purpura
+3735	Vasculitis
+3736	Vasculitis Hypersensitivity
+3737	Vasovagal Attack
+3738	Vasovagal Syncope
+3739	Vater Association
+3740	Velocardiofacial Syndrome
+3741	Velopharyngeal Incompetence
+3742	Venereal Warts
+3743	Venous Thrombosis
+3744	Ventricular Fibrillation, Idiopathic
+3745	Ventricular Flutter
+3746	Ventricular Septal Defect
+3747	Vernal Keratoconjunctivitis
+3748	Veruccas
+3749	Vesicoureteral Reflux
+3750	Vestibular Neuronitis
+3751	Vibrio
+3752	Vibrio Parahaemolyticus
+3753	Vibrio Vulnificus
+3754	Vincent's Disease
+3755	Vincent's Stomatitis
+3756	Violent Vomiting
+3757	Vipoma
+3758	Viral Disentery
+3759	Viral Exanthem
+3760	Viral Gastroenteritis
+3761	Viral Haemorrhagic Fevers
+3762	Viral Hemorrhagic Fever
+3763	Viral Hepatitis
+3764	Viral Meningitis
+3765	Vision Problems
+3766	Vitamin A Deficiency
+3767	Vitamin A Overdose
+3768	Vitamin B 6 Deficiency
+3769	Vitamin B Deficiency
+3770	Vitamin B12 Deficiency
+3771	Vitamin C Deficiency
+3772	Vitamin D Deficiency
+3773	Vitamin D Overdose
+3774	Vitamin D Resistant Rickets
+3775	vitamin Deficiency Anemia
+3776	Vitamin E Deficiency
+3777	Vitamin E Familial Isolated, Deficiency
+3778	Vitamin E Overdose
+3779	Vitamin K Deficiency
+3780	Vitiligo
+3781	VKH
+3782	VLCAD Deficiency
+3783	Vocal Cord Paralysis
+3784	Von Gierke Disease
+3785	Von Hippel-Lindau Disease
+3786	Von Recklinghausen Disease
+3787	Von Willebrand Disease
+3788	Voyeurism
+3789	Vulvar Cancer
+3790	Vulvitis
+3791	Vulvodynia
+3792	Vulvovaginitis
+3793	Waardenburg Syndrome
+3794	Waardenburg Syndrome Pierpoint
+3795	Waardenburg Syndrome Type 1
+3796	Waardenburg Syndrome Type 2
+3797	Waardenburg Syndrome Type 2A
+3798	Waardenburg Syndrome Type 2B
+3799	Waardenburg Syndrome Type 3
+3800	Waardenburg Syndrome Type 4
+3801	Wagner's Disease
+3802	Wagner-Stickler Syndrome
+3803	WAGR Syndrome
+3804	Waldenstrom Macroglobulinemia
+3805	Wallerian Degeneration
+3806	Wallis Zief Goldblatt Syndrome
+3807	Wandering Spleen
+3808	Warkany Syndrome
+3809	Warts
+3810	Water In The knee
+3811	Water Intoxication
+3812	Waterhouse-Friderichsen Syndrome
+3813	Watermelon Stomach
+3814	Weaver Syndrome
+3815	Weber Sturge Dimitri Syndrome
+3816	Weber-Christian Disease
+3817	Wegener's Granulomatosis
+3818	Weil Syndrome
+3819	Weil's Disease
+3820	Weissenbacher Zweymuller Syndrome
+3821	Werdnig-Hoffman Disease
+3822	Werner's Syndrome
+3823	Wernicke's Encephalopathy
+3824	Wernickle-Korsakoff Syndrome
+3825	West Nile Encephalitis
+3826	West Nile Virus
+3827	West Syndrome
+3828	Western Equine Encephalitis
+3829	Westphall Disease
+3830	Wet Lung
+3831	wheat Allergy
+3832	Wheat Hypersensitivity
+3833	Whiplash
+3834	Whipple Disease
+3835	Whipworm
+3836	White Sponge Nevus
+3837	Whiteheads
+3838	Whitemore Disease
+3839	Whitlow
+3840	Whooping Cough
+3841	Whooping Cough (Pertussis)
+3842	Willebrand Disease
+3843	Willebrand Disease, Acquired
+3844	Williams Syndrome
+3845	Wilms Tumor-Aniridia Syndrome
+3846	Wilms' Tumor
+3847	Wilson's Disease
+3848	Winged Scapula
+3849	Winter Vomiting Disease
+3850	Wiskott-Aldrich Syndrome
+3851	Wolf-Hirschhorn Syndrome
+3852	Wolff-Parkinson-White Syndrome
+3853	Wolfram Syndrome
+3854	Wolman Disease
+3855	Womb Cancer
+3856	Woodhouse Sakati Syndrome
+3857	Wooly Hair Syndrome
+3858	Worms
+3859	Worms In Children
+3860	Worster-Drought Syndrome
+3861	Wrinkles
+3862	Writer's Cramp
+3863	X-Linked Adrenal Hypoplasia Congenita
+3864	X-Linked Agammaglobulinemia
+3865	X-Linked Alpha Thalassemia Mental Retardation Syndrome (ATR-X)
+3866	X-Linked Dominant
+3867	X-Linked Ichthyosis
+3868	X-Linked Mental Retardation And Macroorchidism
+3869	X-Linked Severe Combined Immunodeficiency
+3870	Xanthelasma Palpebrarum
+3871	Xanthine Oxydase Deficiency
+3872	Xanthinuria
+3873	Xanthoma
+3874	Xanthomatosis Cerebrotendinous
+3875	Xeroderma Pigmentosum
+3876	Xeroderma Pigmentosum, Type 1
+3877	Xeroderma Pigmentosum, Type 2
+3878	Xeroderma Pigmentosum, Type 3
+3879	Xeroderma Pigmentosum, Type 5
+3880	Xeroderma Pigmentosum, Type 6
+3881	Xeroderma Pigmentosum, Type 7
+3882	Xeroderma Pigmentosum, Variant Type
+3883	Xerophthalmia
+3884	XX Male Syndrome
+3885	XY Female
+3886	Y Chromosome Deletions
+3887	Yaws
+3888	Yeast Infection
+3889	Yellow Fever
+3890	Yellow Nail Syndrome
+3891	Yersinia
+3892	Yersinia Pestis
+3893	Yersiniosis
+3894	Yips
+3895	Yolk Sac Tumor
+3896	Young Simpson Syndrome
+3897	Young Syndrome
+3898	Yunis Varon Syndrome
+3899	Yusho Disease
+3900	Zadik Barak Levin Syndrome
+3901	ZAP70 Deficiency
+3902	Zazam Sheriff Phillips Syndrome
+3903	Zellweger Syndrome
+3904	Zimmerman Laband Syndrome
+3905	Zinc Deficiency
+3906	Zollinger-Ellison Syndrome
+3907	Zonular Cataract And Nystagmus
+3908	Zori Stalker Williams Syndrome
+3909	Zunich-kaye Syndrome
+3910	Zuska's Disease

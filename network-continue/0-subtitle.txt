@@ -1,0 +1,103 @@
+3961	Definition
+3910	name
+3489	Symptoms and Signs
+3366	Treatment
+3335	Causes
+3089	Diagnosis
+85	Prevalence
+39	Complications
+26	Characteristics and Features
+23	Prognosis
+20	Frequency
+18	Historical Background
+14	Pathophysiology
+12	Epidemiology
+10	Clinical Features
+10	Mortality/Morbidity
+9	Testing
+9	Types
+8	Genetics
+7	Effects
+7	Subtypes
+6	Test
+5	Classifications
+5	Prevention
+5	Case Study
+4	Risk Factors
+4	Manifestations of the Disease
+3	Pathogenesis
+3	Management
+3	Inheritance
+3	Race
+3	Terminology
+3	MGA Sub-groups
+2	Cases
+2	Education
+2	Diagnosis and Treatments
+2	Pathology
+2	Care
+2	Implications
+2	Etiology
+2	Researches
+1	Related conditions
+1	This Syndrome and Tourette's Syndrome
+1	Cause and Diagnosis
+1	Role
+1	Divisions of Lifespan
+1	Probable Complications
+1	Misdiagnoses
+1	HIV Stages of Infection
+1	Causative Organism
+1	Components
+1	Clinical Trials
+1	Common Symptoms
+1	Other complications
+1	Practical Information for Patients
+1	Major Differentiation
+1	Possible Complications
+1	Underlying conditions
+1	Location
+1	Eye Problems caused by the Syndrome
+1	Genetic prevalence
+1	More Serious Problems Caused by the Syndrome
+1	Who performs the BAER test
+1	Histopathology
+1	Appearance
+1	Similar Conditions
+1	Metastases
+1	Senescence
+1	Naming
+1	Hormonal Conditions with the Deficiency
+1	Medications
+1	Conclusion
+1	Clinical presentation
+1	Diet
+1	Therapy
+1	Medical Care
+1	Misconceptions on HIV and AIDS
+1	Types of Abdominal Defects
+1	Developmental Delays
+1	Pituitary Gland
+1	Recorded Mutations
+1	Population Aging
+1	Use of Cytotoxic T Cells
+1	Diseases that are Associated with Acquired Ichthyosis
+1	Histology
+1	Introduction
+1	Sites
+1	Etymology
+1	Endocrine Treatment
+1	Clinical Phenotypes of AMD
+1	Presentation
+1	Function
+1	The Three Kinds 21-Hydroxylase Deficiency
+1	Ecology and Aphiphobia
+1	Signs of asthma attacks include
+1	Pediatric pointers
+1	Transmission
+1	First Recorded Case
+1	Diseases Associated with the Deficiency
+1	Incubation period
+1	Findings
+1	Infection cycle
+1	Examples
